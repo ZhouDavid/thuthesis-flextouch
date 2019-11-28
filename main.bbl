@@ -1,0 +1,333 @@
+\begin{thebibliography}{36}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\relax\else
+  \urlstyle{same}\fi
+
+\bibitem[Pinhanez(2001)]{pinhanez2001everywhere}
+Pinhanez~C.
+\newblock The everywhere displays projector: A device to create ubiquitous
+  graphical interfaces\allowbreak[C]//\allowbreak
+Abowd~G~D, Brumitt~B, Shafer~S.
+\newblock Ubicomp 2001: Ubiquitous Computing.
+\newblock Berlin, Heidelberg: Springer Berlin Heidelberg, 2001: 315-331.
+
+\bibitem[Fails et~al.(2002)Fails and Jr.]{Fails-2002-Light-Widgets}
+Fails~J~A, Jr.~D~O.
+\newblock Light widgets: Interacting in every-day
+  spaces\allowbreak[C/OL]//\allowbreak
+IUI '02: Proceedings of the 7th International Conference on Intelligent User
+  Interfaces.
+\newblock New York, NY, USA: ACM, 2002: 63-69.
+\newblock \url{http://doi.acm.org/10.1145/502716.502729}.
+
+\bibitem[Wilson et~al.(2010)Wilson and Benko]{Wilson-2010-Light-Space}
+Wilson~A~D, Benko~H.
+\newblock Combining multiple depth cameras and projectors for interactions on,
+  above and between surfaces\allowbreak[C/OL]//\allowbreak
+UIST '10: Proceedings of the 23Nd Annual ACM Symposium on User Interface
+  Software and Technology.
+\newblock New York, NY, USA: ACM, 2010: 273-282.
+\newblock \url{http://doi.acm.org/10.1145/1866029.1866073}.
+
+\bibitem[Xiao et~al.(2013)Xiao, Harrison, and Hudson]{Xiao-WorldKit}
+Xiao~R, Harrison~C, Hudson~S~E.
+\newblock Worldkit: Rapid and easy creation of ad-hoc interactive applications
+  on everyday surfaces\allowbreak[C/OL]//\allowbreak
+CHI '13: Proceedings of the SIGCHI Conference on Human Factors in Computing
+  Systems.
+\newblock New York, NY, USA: ACM, 2013: 879-888.
+\newblock \url{http://doi.acm.org/10.1145/2470654.2466113}.
+
+\bibitem[Paradiso et~al.(2002)Paradiso, Leo, Checka, and
+  Hsiao]{Paradiso-2002-Window}
+Paradiso~J~A, Leo~C~K, Checka~N, et~al.
+\newblock Passive acoustic knock tracking for interactive
+  windows\allowbreak[C/OL]//\allowbreak
+CHI EA '02: CHI '02 Extended Abstracts on Human Factors in Computing Systems.
+\newblock New York, NY, USA: ACM, 2002: 732-733.
+\newblock \url{http://doi.acm.org/10.1145/506443.506570}.
+
+\bibitem[Harrison et~al.(2008)Harrison and Hudson]{Harrison-2008-Scratch-iput}
+Harrison~C, Hudson~S~E.
+\newblock Scratch input: Creating large, inexpensive, unpowered and mobile
+  finger input surfaces\allowbreak[C/OL]//\allowbreak
+UIST '08: Proceedings of the 21st Annual ACM Symposium on User Interface
+  Software and Technology.
+\newblock New York, NY, USA: ACM, 2008: 205-208.
+\newblock \url{http://doi.acm.org/10.1145/1449715.1449747}.
+
+\bibitem[Rekimoto(2002)]{Rekimoto-SmartSkin}
+Rekimoto~J.
+\newblock Smartskin: An infrastructure for freehand manipulation on interactive
+  surfaces\allowbreak[C/OL]//\allowbreak
+CHI '02: Proceedings of the SIGCHI Conference on Human Factors in Computing
+  Systems.
+\newblock New York, NY, USA: ACM, 2002: 113-120.
+\newblock \url{http://doi.acm.org/10.1145/503376.503397}.
+
+\bibitem[Zhang et~al.(2017)Zhang, Laput, and Harrison]{Zhang-Electrick}
+Zhang~Y, Laput~G, Harrison~C.
+\newblock Electrick: Low-cost touch sensing using electric field
+  tomography\allowbreak[C/OL]//\allowbreak
+CHI '17: Proceedings of the 2017 CHI Conference on Human Factors in Computing
+  Systems.
+\newblock New York, NY, USA: ACM, 2017: 1-14.
+\newblock \url{http://doi.acm.org/10.1145/3025453.3025842}.
+
+\bibitem[Zhang et~al.(2018{\natexlab{a}})Zhang and Harrison]{Zhang-pulp}
+Zhang~Y, Harrison~C.
+\newblock Pulp nonfiction: Low-cost touch tracking for
+  paper\allowbreak[C/OL]//\allowbreak
+CHI '18: Proceedings of the 2018 CHI Conference on Human Factors in Computing
+  Systems.
+\newblock New York, NY, USA: ACM, 2018{\natexlab{a}}: 117:1-117:11.
+\newblock \url{http://doi.acm.org/10.1145/3173574.3173691}.
+
+\bibitem[Sato et~al.(2012)Sato, Poupyrev, and Harrison]{Sato-Touche}
+Sato~M, Poupyrev~I, Harrison~C.
+\newblock Touch{\'e}: Enhancing touch interaction on humans, screens, liquids,
+  and everyday objects\allowbreak[C/OL]//\allowbreak
+CHI '12: Proceedings of the SIGCHI Conference on Human Factors in Computing
+  Systems.
+\newblock New York, NY, USA: ACM, 2012: 483-492.
+\newblock \url{http://doi.acm.org/10.1145/2207676.2207743}.
+
+\bibitem[Savage et~al.(2012)Savage, Zhang, and Hartmann]{Savage-2012-Midas}
+Savage~V, Zhang~X, Hartmann~B.
+\newblock Midas: Fabricating custom capacitive touch sensors to prototype
+  interactive objects\allowbreak[C/OL]//\allowbreak
+UIST '12: Proceedings of the 25th Annual ACM Symposium on User Interface
+  Software and Technology.
+\newblock New York, NY, USA: ACM, 2012: 579-588.
+\newblock \url{http://doi.acm.org/10.1145/2380116.2380189}.
+
+\bibitem[Zhang et~al.(2018{\natexlab{b}})Zhang, Yang, Hudson, Harrison, and
+  Sample]{Zhang-wall}
+Zhang~Y, Yang~C~J, Hudson~S~E, et~al.
+\newblock Wall++: Room-scale interactive and context-aware
+  sensing\allowbreak[C/OL]//\allowbreak
+CHI '18: Proceedings of the 2018 CHI Conference on Human Factors in Computing
+  Systems.
+\newblock New York, NY, USA: ACM, 2018{\natexlab{b}}: 273:1-273:15.
+\newblock \url{http://doi.acm.org/10.1145/3173574.3173847}.
+
+\bibitem[Gong et~al.(2014)Gong, Steimle, Olberding, Hodges, Gillian, Kawahara,
+  and Paradiso]{gong2014printsense}
+Gong~N~W, Steimle~J, Olberding~S, et~al.
+\newblock Printsense: A versatile sensing technique to support multimodal
+  flexible surface interaction\allowbreak[C/OL]//\allowbreak
+CHI '14: Proceedings of the SIGCHI Conference on Human Factors in Computing
+  Systems.
+\newblock New York, NY, USA: ACM, 2014: 1407-1410.
+\newblock \url{http://doi.acm.org/10.1145/2556288.2557173}.
+
+\bibitem[Olberding et~al.(2015)Olberding, Soto~Ortega, Hildebrandt, and
+  Steimle]{olberding2015foldio}
+Olberding~S, Soto~Ortega~S, Hildebrandt~K, et~al.
+\newblock Foldio: Digital fabrication of interactive and shape-changing objects
+  with foldable printed electronics\allowbreak[C/OL]//\allowbreak
+UIST '15: Proceedings of the 28th Annual ACM Symposium on User Interface
+  Software and Technology.
+\newblock New York, NY, USA: ACM, 2015: 223-232.
+\newblock \url{http://doi.acm.org/10.1145/2807442.2807494}.
+
+\bibitem[Olberding et~al.(2014)Olberding, Wessely, and
+  Steimle]{olberding2014printscreen}
+Olberding~S, Wessely~M, Steimle~J.
+\newblock Printscreen: Fabricating highly customizable thin-film
+  touch-displays\allowbreak[C/OL]//\allowbreak
+UIST '14: Proceedings of the 27th Annual ACM Symposium on User Interface
+  Software and Technology.
+\newblock New York, NY, USA: ACM, 2014: 281-290.
+\newblock \url{http://doi.acm.org/10.1145/2642918.2647413}.
+
+\bibitem[Vadgama et~al.(2017)Vadgama and Steimle]{vadgama2017flexy}
+Vadgama~N, Steimle~J.
+\newblock Flexy: Shape-customizable, single-layer, inkjet printable patterns
+  for 1d and 2d flex sensing\allowbreak[C/OL]//\allowbreak
+TEI '17: Proceedings of the Eleventh International Conference on Tangible,
+  Embedded, and Embodied Interaction.
+\newblock New York, NY, USA: ACM, 2017: 153-162.
+\newblock \url{http://doi.acm.org/10.1145/3024969.3024989}.
+
+\bibitem[Grosse-Puppendahl et~al.(2017)Grosse-Puppendahl, Holz, Cohn, Wimmer,
+  Bechtold, Hodges, Reynolds, and Smith]{Grosse-Puppendahl-capacitive}
+Grosse-Puppendahl~T, Holz~C, Cohn~G, et~al.
+\newblock Finding common ground: A survey of capacitive sensing in
+  human-computer interaction\allowbreak[C/OL]//\allowbreak
+CHI '17: Proceedings of the 2017 CHI Conference on Human Factors in Computing
+  Systems.
+\newblock New York, NY, USA: ACM, 2017: 3293-3315.
+\newblock \url{http://doi.acm.org/10.1145/3025453.3025808}.
+
+\bibitem[Holz et~al.(2015)Holz, Buthpitiya, and Knaust]{Holz-bodyprint}
+Holz~C, Buthpitiya~S, Knaust~M.
+\newblock Bodyprint: Biometric user identification on mobile devices using the
+  capacitive touchscreen to scan body parts\allowbreak[C/OL]//\allowbreak
+CHI '15: Proceedings of the 33rd Annual ACM Conference on Human Factors in
+  Computing Systems.
+\newblock New York, NY, USA: ACM, 2015: 3011-3014.
+\newblock \url{http://doi.acm.org/10.1145/2702123.2702518}.
+
+\bibitem[Guo et~al.(2015)Guo, Xiao, and Harrison]{Guo2015}
+Guo~A, Xiao~R, Harrison~C.
+\newblock {CapAuth: Identifying and Differentiating User Handprints on
+  Commodity Capacitive Touchscreens}\allowbreak[J/OL].
+\newblock Proceedings of the 2015 International Conference on Interactive
+  Tabletops {\&} Surfaces - ITS '15, 2015:\penalty0 59-62.
+\newblock \url{http://dl.acm.org/citation.cfm?doid=2817721.2817722}.
+
+\bibitem[Le et~al.(2018)Le, Kosch, Bader, Mayer, and Henze]{Le-palmtouch}
+Le~H~V, Kosch~T, Bader~P, et~al.
+\newblock Palmtouch: Using the palm as an additional input modality on
+  commodity smartphones\allowbreak[C/OL]//\allowbreak
+CHI '18: Proceedings of the 2018 CHI Conference on Human Factors in Computing
+  Systems.
+\newblock New York, NY, USA: ACM, 2018: 360:1-360:13.
+\newblock \url{http://doi.acm.org/10.1145/3173574.3173934}.
+
+\bibitem[Chan et~al.(2012)Chan, M{\"u}ller, Roudaut, and
+  Baudisch]{Chan-CapStones}
+Chan~L, M{\"u}ller~S, Roudaut~A, et~al.
+\newblock Capstones and zebrawidgets: Sensing stacks of building blocks, dials
+  and sliders on capacitive touch screens\allowbreak[C/OL]//\allowbreak
+CHI '12: Proceedings of the SIGCHI Conference on Human Factors in Computing
+  Systems.
+\newblock New York, NY, USA: ACM, 2012: 2189-2192.
+\newblock \url{http://doi.acm.org/10.1145/2207676.2208371}.
+
+\bibitem[Schmitz et~al.(2017)Schmitz, Steimle, Huber, Dezfuli, and
+  Uhlh{\"{a}}user]{Schmitz2017}
+Schmitz~M, Steimle~U, Huber~J, et~al.
+\newblock {Flexibles: Deformation-Aware 3D-Printed Tangibles for Capacitive
+  Touchscreens}\allowbreak[J/OL].
+\newblock CHI '17 Proceedings of the 2017 CHI Conference on Human Factors in
+  Computing Systems, 2017:\penalty0 1001-1014.
+\newblock
+  \url{http://dx.doi.org/10.1145/3025453.3025663{\%}0Ahttp://dl.acm.org/citation.cfm?id=3025663{\&}CFID=933695613{\&}CFTOKEN=41453473{\%}0Ahttps://www.youtube.com/watch?v=UGcTsb{\_}A0V8}.
+
+\bibitem[Schmitz et~al.(2018)Schmitz, Herbers, Dezfuli, G{\"u}nther, and
+  M\"{u}hlh\"{a}user]{Schmitz2018}
+Schmitz~M, Herbers~M, Dezfuli~N, et~al.
+\newblock Off-line sensing: Memorizing interactions in passive 3d-printed
+  objects\allowbreak[C/OL]//\allowbreak
+CHI '18: Proceedings of the 2018 CHI Conference on Human Factors in Computing
+  Systems.
+\newblock New York, NY, USA: ACM, 2018: 182:1-182:8.
+\newblock \url{http://doi.acm.org/10.1145/3173574.3173756}.
+
+\bibitem[Cheng et~al.(2013{\natexlab{a}})Cheng, Liang, Wu, and
+  Chen]{Cheng2013a}
+Cheng~L~P, Liang~H~s, Wu~C~Y, et~al.
+\newblock {iGrasp: grasp-based adaptive keyboard for mobile
+  devices}\allowbreak[J/OL].
+\newblock Proceedings of the SIGCHI Conference on Human Factors in Computing
+  Systems, 2013:\penalty0 3037-3046.
+\newblock \url{http://dl.acm.org/citation.cfm?id=2481422}.
+
+\bibitem[Cheng et~al.(2013{\natexlab{b}})Cheng, Lee, Wu, Hsiao, Liu, Liang,
+  Chiu, Lee, and Chen]{Cheng-2013-IrotateGrasp}
+Cheng~L~P, Lee~M~H, Wu~C~Y, et~al.
+\newblock Irotategrasp: Automatic screen rotation based on grasp of mobile
+  devices\allowbreak[C/OL]//\allowbreak
+CHI '13: Proceedings of the SIGCHI Conference on Human Factors in Computing
+  Systems.
+\newblock New York, NY, USA: ACM, 2013{\natexlab{b}}: 3051-3054.
+\newblock \url{http://doi.acm.org/10.1145/2470654.2481424}.
+
+\bibitem[Laput et~al.(2015)Laput, Brockmeyer, Hudson, and
+  Harrison]{laput2015acoustruments}
+Laput~G, Brockmeyer~E, Hudson~S~E, et~al.
+\newblock Acoustruments: Passive, acoustically-driven, interactive controls for
+  handheld devices\allowbreak[C]//\allowbreak
+Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing
+  Systems.
+\newblock [S.l.]: ACM, 2015: 2161-2170.
+
+\bibitem[Wen et~al.(2016)Wen, Seah, Ng, Liu, and Cao]{wen2016ubitouch}
+Wen~E, Seah~W, Ng~B, et~al.
+\newblock Ubitouch: ubiquitous smartphone touchpads using built-in proximity
+  and ambient light sensors\allowbreak[C]//\allowbreak
+Proceedings of the 2016 ACM International Joint Conference on Pervasive and
+  Ubiquitous Computing.
+\newblock [S.l.]: ACM, 2016: 286-297.
+
+\bibitem[Wang et~al.(2014)Wang, Zhao, Zhang, and Peng]{wang2014ubiquitous}
+Wang~J, Zhao~K, Zhang~X, et~al.
+\newblock Ubiquitous keyboard for small mobile devices: harnessing multipath
+  fading for fine-grained keystroke localization\allowbreak[C]//\allowbreak
+Proceedings of the 12th annual international conference on Mobile systems,
+  applications, and services.
+\newblock [S.l.]: ACM, 2014: 14-27.
+
+\bibitem[Yu et~al.(2011)Yu, Tsai, Hsiao, Tsai, Lee, Chen, and Hung]{Yu2011}
+Yu~N~H, Tsai~S~S, Hsiao~I~C, et~al.
+\newblock Clip-on gadgets: Expanding multi-touch interaction area with
+  unpowered tactile controls\allowbreak[C/OL]//\allowbreak
+UIST '11: Proceedings of the 24th Annual ACM Symposium on User Interface
+  Software and Technology.
+\newblock New York, NY, USA: ACM, 2011: 367-372.
+\newblock \url{http://doi.acm.org/10.1145/2047196.2047243}.
+
+\bibitem[Kato et~al.(2016)Kato and Miyashita]{Kato2016}
+Kato~K, Miyashita~H.
+\newblock 3d printed physical interfaces that can extend touch
+  devices\allowbreak[C/OL]//\allowbreak
+UIST '16 Adjunct: Proceedings of the 29th Annual Symposium on User Interface
+  Software and Technology.
+\newblock New York, NY, USA: ACM, 2016: 47-49.
+\newblock \url{http://doi.acm.org/10.1145/2984751.2985700}.
+
+\bibitem[Kato et~al.(2015{\natexlab{a}})Kato and Miyashita]{Kato2015}
+Kato~K, Miyashita~H.
+\newblock Extensionsticker: A proposal for a striped pattern sticker to extend
+  touch interfaces and its assessment\allowbreak[C/OL]//\allowbreak
+CHI '15: Proceedings of the 33rd Annual ACM Conference on Human Factors in
+  Computing Systems.
+\newblock New York, NY, USA: ACM, 2015{\natexlab{a}}: 1851-1854.
+\newblock \url{http://doi.acm.org/10.1145/2702123.2702500}.
+
+\bibitem[Kato et~al.(2015{\natexlab{b}})Kato and Miyashita]{Kato2015a}
+Kato~K, Miyashita~H.
+\newblock {Creating a Mobile Head-mounted Display with Proprietary Controllers
+  for Interactive Virtual Reality Content}\allowbreak[J/OL].
+\newblock Proceedings of the 28th Annual ACM Symposium on User Interface
+  Software {\&} Technology - UIST '15 Adjunct, 2015:\penalty0 35-36.
+\newblock \url{http://dl.acm.org/citation.cfm?doid=2815585.2817776}.
+
+\bibitem[Gao et~al.(2018)Gao, Zhang, and Banerjee]{mobicom-gao18}
+Gao~C, Zhang~X, Banerjee~S.
+\newblock Conductive inkjet printed passive 2d trackpad for {VR}
+  interaction\allowbreak[C/OL]//\allowbreak
+Proceedings of the 24th Annual International Conference on Mobile Computing and
+  Networking, MobiCom 2018, New Delhi, India, October 29 - November 02, 2018.
+\newblock 2018: 83-98.
+\newblock \url{https://doi.org/10.1145/3241539.3241546}.
+
+\bibitem[Ikematsu et~al.(2018)Ikematsu and Siio]{Ikematsu-Ohmic-Touch}
+Ikematsu~K, Siio~I.
+\newblock Ohmic-touch: Extending touch interaction by indirect touch through
+  resistive objects\allowbreak[C/OL]//\allowbreak
+CHI '18: Proceedings of the 2018 CHI Conference on Human Factors in Computing
+  Systems.
+\newblock New York, NY, USA: ACM, 2018: 521:1-521:8.
+\newblock \url{http://doi.acm.org/10.1145/3173574.3174095}.
+
+\bibitem[Technology(2018)]{ITO}
+Technology~A.
+\newblock {ITO manufacture}\allowbreak[EB/OL].
+\newblock 2018.
+\newblock \url{http://www.h-nxc.com/}.
+
+\bibitem[Kawahara et~al.(2013)Kawahara, Hodges, Cook, Zhang, and
+  Abowd]{Kawahara-inkjet}
+Kawahara~Y, Hodges~S, Cook~B~S, et~al.
+\newblock Instant inkjet circuits: Lab-based inkjet printing to support rapid
+  prototyping of ubicomp devices\allowbreak[C/OL]//\allowbreak
+UbiComp '13: Proceedings of the 2013 ACM International Joint Conference on
+  Pervasive and Ubiquitous Computing.
+\newblock New York, NY, USA: ACM, 2013: 363-372.
+\newblock \url{http://doi.acm.org/10.1145/2493432.2493486}.
+
+\end{thebibliography}

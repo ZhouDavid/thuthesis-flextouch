@@ -1,0 +1,27 @@
+\chapter{Introduction and Overview}
+    \label{cha:intro}
+
+\section{Background}
+Capacitive touchscreen is one of the most profound interaction technique on contemporary smart devices, providing seamless, intuitive interaction between users and the digital media. However, the sensing space is limited to the area where touch sensors are embedded, constraining natural user interactions to the surfaces of these smart devices. Scaling touchscreens to large surfaces and everyday objects is expensive and challenging, which limits its wider adoption for the Internet of Things. Researchers have explored enabling touch interfaces on everyday surfaces or objects [15, 18, 19, 22, 23, 30, 33] with various sensing techniques. However, these prior work requires dedicated sensing platforms such as the Arduino embedded systems to power touch interfaces and to enable wireless communication with digital devices. These requirements create barriers for end users to easily fabricate customizable touch interfaces. As an alternative, researchers proposed extending the capacitive sensing capability of the touchscreen to ambient surfaces through conductive strips. These systems can support interactions such as touch widgets [10–12], trackpad [3] as well as tangible interfaces [1, 25, 26]. Unfortunately, these approaches can only support applications with very limited sensing range and fabrication materials. Furthermore, the sensing and fabrication methods as well as the design space of extending the built-in capacitive sensing capability on the touchscreen for long-range interactive applications have not yet been studied.
+
+\begin{figure}
+    \centering
+      \includegraphics[width=0.78\columnwidth]{figures/scenarios-ubicomp.png}
+      \setlength{\belowcaptionskip}{-15pt}
+      \caption{\textit{FlexTouch} supports various large-scale applications with different configurations. A: Discrete and 1-dimension touch widgets sensing long-range touch events. B: Fitness tracking using designs in A for the count of repetitions, distance and speed measurement on a treadmill, cycling and chest exercise machine. C: Body posture detection on the yoga mat with a built-in capacitive sensing matrix in an X-Y layout. D: Smart desk application for object presence and user's state detection. E. Smart mattress for sleep monitoring with a one-on-one mapping node matrix from the touchscreen.}
+      \label{fig:scenarios}
+\end{figure}
+
+\section{Thesis Structure}
+\label{sec:thesis structure}
+
+
+\section{Thesis Contribution}
+\label{sec:contrib}
+In this paper, we present FlexTouch, a technique for enabling long-range touch sensing interfaces beyond commercial touchscreens leveraging a variety of flexible conductive materials (Fig 1). FlexTouch utilizes simple fabrication techniques to create a variety of passive, conductive 2D-patterned touch interfaces that enable new health and wellness applications. Our contributions in this paper are as follow:
+
+1. We enabled large-scale touch sensing up to 4 meters and objects’ presence up to 2 meters away from the capacitive touchscreen to ambient surroundings by including the local ground in the external conductive pattern design.
+
+2. We showed that FlexTouch is easy to fabricate, assemble and use. The 2D circuit-like pattern is compatible with various conductive materials (copper foil tape, silver nanoparticle ink, ITO frames, and carbon paint), as well as fabrication methods (cutting, coating, and ink-jet printing). Furthermore, we proposed two easy attachment or assembly approaches to connect the extension part to touchscreens.
+
+3. We benchmarked the performance of FlexTouch through user studies. Specifically, we fully explored design variables such as materials, extension strips’ width as well as gap distance between strips and evaluated their impact on the coverage distance of FlexTouch. In addition, we demonstrated the versatility and feasibility of FlexTouch through applications such as body posture sensing, object presence detection as well as enhanced fitness sensing applications.

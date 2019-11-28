@@ -1,0 +1,51 @@
+\begin{figure}[H] % use float package if you want it here
+    \centering
+    \includegraphics{c3darc.png}
+    \caption{the C3D network architecture}
+    \label{fig:schema}
+\end{figure}
+
+~\ref{fig:c3darc}
+
+
+\begin{table}[!htbp]
+    \centering
+    \begin{tabular}{|c|c|c|c|c|c|}
+    \hline
+    -& SMIC& CASME& CASME II& SAMM& CAS$(ME)^2$ \\
+    \hline
+    Number of samples& 306& 195& 247& 159& 57\\
+    \hline
+    Number of Identities& 40& 35& 35& 32& 22\\
+    \hline
+    Frame Per Second& 100& 60& 200& 200& 30 \\
+    \hline
+    Average Age& N/A& 22.03& 22.03& 33.24& 22.59\\
+    \hline
+    Frame Resolution& 640\times480& 640\times480& 640\times480& 2040\times1088& 640\times480 \\
+    \hline
+    Face Region Resolution& 190\times230& 150\times190& 280\times340& 400\times400& N/A \\
+    \hline
+    Micro-expression Category & \makecell{3 categories \\ Positive(107) \\ Negative(116) \\Surprise(83)}& \makecell{8 Categories \\ Amusement(5) \\ Sadness(6)\\ Disgust(88)\\Surprise(20) \\Contempt(3) \\Fear(2) \\Repression(40)\\Tense(28)} & \makecell{5 Categories \\ Happiness(33) \\Disgust(60) \\Surprise(25) \\Repression(27)\\Others(102)} & N/A& \makecell{4 Categories \\ Positive(8) \\ Negative(21)\\Surprise(9)\\Others(19)} \\
+    \end{tabular}
+    \caption{Five Open Publice Micro-expression Database}
+    \label{tab:micro-exp}
+\end{table}
+
+\begin{table}[!htbp]
+    \centering
+    \begin{tabular}{|c|c|}
+    \hline
+    Optimizer & Learning Rate \\
+    \hline
+    Vanilla SGD &  0.01 \\
+    SGD with momentum &  0.01 in the first 10 epochs and 0.001 at the rest epochs(momentum 0.1)\\
+    Adam & from 0.01 to 0.001 (linear decay in all epochs) \\
+    \hline 
+    \end{tabular}
+    \caption{Optimizer with Learning Rate}
+    \label{tab:optlr}
+\end{table}
+
+
+~\ref{tab:micro-exp}
