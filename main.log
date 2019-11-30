@@ -1134,6 +1134,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 ] [2
 
 
+<<<<<<< HEAD
 ] (./main.toc [3
 
 
@@ -1145,23 +1146,85 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Chapter 1
 
 LaTeX Warning: Reference `fig:touchscreen-products' on page 1 undefined on input line 4.
+=======
+] (./main.toc)
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ [3
+
+
+] (./data/chap01.tex
+Chapter 1
+File: figures/touchproducts.png Graphic file (type bmp)
+<figures/touchproducts.png>
+
+Package natbib Warning: Citation `Ono-Touch-and-Activate' on page 1 undefined on input line 15.
+
+
+Package natbib Warning: Citation `Ono-2014' on page 1 undefined on input line 15.
+
+
+Package natbib Warning: Citation `Sato-Touche' on page 1 undefined on input line 15.
+
+
+Package natbib Warning: Citation `Xiao-WorldKit' on page 1 undefined on input line 15.
+
+
+Package natbib Warning: Citation `Rekimoto-SmartSkin' on page 1 undefined on input line 15.
+
+
+Package natbib Warning: Citation `olberding2013cuttable' on page 1 undefined on input line 15.
+
+
+Package natbib Warning: Citation `Zhang-Electrick' on page 1 undefined on input line 15.
+>>>>>>> 8c00eccf946a8e1b9b6bc039e895525b74c5d92d
 
 [1
 
 
 ]
 
+<<<<<<< HEAD
 LaTeX Warning: Reference `fig:small-scale-scenarios' on page 2 undefined on input line 21.
 
 
 LaTeX Warning: Reference `fig:large-scale-scenarios' on page 2 undefined on input line 21.
 
+=======
+Package natbib Warning: Citation `Kato2015a' on page 2 undefined on input line 19.
+
+
+Package natbib Warning: Citation `Kato2015' on page 2 undefined on input line 19.
+
+
+Package natbib Warning: Citation `Kato2016' on page 2 undefined on input line 19.
+
+
+Package natbib Warning: Citation `mobicom-gao18' on page 2 undefined on input line 19.
+
+
+Package natbib Warning: Citation `Schmitz2017' on page 2 undefined on input line 19.
+
+
+Package natbib Warning: Citation `Schmitz2018' on page 2 undefined on input line 19.
+
+
+Package natbib Warning: Citation `Chan-CapStones' on page 2 undefined on input line 19.
+
+
+LaTeX Warning: Reference `fig:small-scale-scenarios' on page 2 undefined on input line 21.
+
+File: figures/scenarios-ubicomp.png Graphic file (type bmp)
+<figures/scenarios-ubicomp.png>
+>>>>>>> 8c00eccf946a8e1b9b6bc039e895525b74c5d92d
 
 LaTeX Warning: Reference `fig:small-scale' on page 2 undefined on input line 36.
 
 
 LaTeX Warning: Reference `fig:large-scalescenarios' on page 2 undefined on input line 36.
 
+<<<<<<< HEAD
 [2] [3]) (./data/chap02.tex [4]
 Chapter 2
 
@@ -1358,3 +1421,781 @@ Here is how much of TeX's memory you used:
  66i,12n,120p,2599b,2766s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on main.pdf (46 pages).
+=======
+[2] [3] [4]) (./data/chap02.tex [5]
+Chapter 2
+
+Package natbib Warning: Citation `pinhanez2001everywhere' on page 6 undefined on input line 5.
+
+
+Package natbib Warning: Citation `Fails-2002-Light-Widgets' on page 6 undefined on input line 5.
+
+
+Package natbib Warning: Citation `Wilson-2010-Light-Space' on page 6 undefined on input line 5.
+
+
+Package natbib Warning: Citation `Xiao-WorldKit' on page 6 undefined on input line 5.
+
+
+Package natbib Warning: Citation `Paradiso-2002-Window' on page 6 undefined on input line 7.
+
+
+Package natbib Warning: Citation `Harrison-2008-Scratch-iput' on page 6 undefined on input line 7.
+
+
+Package natbib Warning: Citation `Rekimoto-SmartSkin' on page 6 undefined on input line 9.
+
+
+Package natbib Warning: Citation `Zhang-Electrick' on page 6 undefined on input line 9.
+
+
+Package natbib Warning: Citation `Zhang-pulp' on page 6 undefined on input line 9.
+
+
+Package natbib Warning: Citation `Sato-Touche' on page 6 undefined on input line 9.
+
+
+Package natbib Warning: Citation `Savage-2012-Midas' on page 6 undefined on input line 9.
+
+
+Package natbib Warning: Citation `Zhang-wall' on page 6 undefined on input line 9.
+
+
+Package natbib Warning: Citation `gong2014printsense' on page 6 undefined on input line 9.
+
+
+Package natbib Warning: Citation `olberding2015foldio' on page 6 undefined on input line 9.
+
+
+Package natbib Warning: Citation `olberding2014printscreen' on page 6 undefined on input line 9.
+
+
+Package natbib Warning: Citation `vadgama2017flexy' on page 6 undefined on input line 9.
+
+
+Package natbib Warning: Citation `Grosse-Puppendahl-capacitive' on page 6 undefined on input line 12.
+
+
+Package natbib Warning: Citation `Holz-bodyprint' on page 6 undefined on input line 12.
+
+
+Package natbib Warning: Citation `Guo2015' on page 6 undefined on input line 12.
+
+
+Package natbib Warning: Citation `Le-palmtouch' on page 6 undefined on input line 12.
+
+
+Package natbib Warning: Citation `Chan-CapStones' on page 6 undefined on input line 12.
+
+
+Package natbib Warning: Citation `Schmitz2017' on page 6 undefined on input line 12.
+
+
+Package natbib Warning: Citation `Schmitz2018' on page 6 undefined on input line 12.
+
+[6
+
+]
+
+Package natbib Warning: Citation `Cheng2013a' on page 7 undefined on input line 14.
+
+
+Package natbib Warning: Citation `Cheng-2013-IrotateGrasp' on page 7 undefined on input line 14.
+
+
+Package natbib Warning: Citation `laput2015acoustruments' on page 7 undefined on input line 16.
+
+
+Package natbib Warning: Citation `wen2016ubitouch' on page 7 undefined on input line 16.
+
+
+Package natbib Warning: Citation `wang2014ubiquitous' on page 7 undefined on input line 16.
+
+[7]
+
+Package natbib Warning: Citation `Yu2011' on page 8 undefined on input line 18.
+
+
+Package natbib Warning: Citation `Kato2016' on page 8 undefined on input line 18.
+
+
+Package natbib Warning: Citation `Kato2015' on page 8 undefined on input line 18.
+
+
+Package natbib Warning: Citation `Kato2015a' on page 8 undefined on input line 18.
+
+
+Package natbib Warning: Citation `mobicom-gao18' on page 8 undefined on input line 18.
+
+
+Package natbib Warning: Citation `Ikematsu-Ohmic-Touch' on page 8 undefined on input line 18.
+
+) (./data/chap03.tex [8]
+Chapter 3
+
+Package natbib Warning: Citation `Kato2015' on page 9 undefined on input line 4.
+
+
+Package natbib Warning: Citation `Kato2015a' on page 9 undefined on input line 4.
+
+
+Package natbib Warning: Citation `mobicom-gao18' on page 9 undefined on input line 4.
+
+
+Package natbib Warning: Citation `Ikematsu-Ohmic-Touch' on page 9 undefined on input line 4.
+
+
+LaTeX Warning: Reference `fig:plugandplay' on page 9 undefined on input line 4.
+
+File: figures/principle_mode.png Graphic file (type bmp)
+<figures/principle_mode.png>
+
+LaTeX Warning: Reference `fig:mode' on page 9 undefined on input line 14.
+
+[9
+
+]
+Package hyperref Info: bookmark level for unknown equation defaults to 0 on input line 18.
+
+./data/chap03.tex:34: Undefined control sequence.
+\Hy@raisedlink ...roup \let \HyperRaiseLinkLength 
+                                                  \@tempdima \setlength \Hyp...
+l.34 \end{equation}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./data/chap03.tex:34: Undefined control sequence.
+\Hy@raisedlink ...setlength \HyperRaiseLinkLength 
+                                                  \HyperRaiseLinkDefault \Hy...
+l.34 \end{equation}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./data/chap03.tex:34: Undefined control sequence.
+\Hy@raisedlink ...aise \the \HyperRaiseLinkLength 
+                                                  \hbox {\Hy@RestoreSpaceFac...
+l.34 \end{equation}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./data/chap03.tex:34: You can't use `\hbox' after \the.
+\Hy@raisedlink ...the \HyperRaiseLinkLength \hbox 
+                                                  {\Hy@RestoreSpaceFactor #1...
+l.34 \end{equation}
+                   
+I'm forgetting what you said and using zero instead.
+
+./data/chap03.tex:34: Use of \\smash doesn't match its definition.
+\@ifnextchar ... \reserved@d =#1\def \reserved@a {
+                                                  #2}\def \reserved@b {#3}\f...
+l.34 \end{equation}
+                   
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+./data/chap03.tex:34: Argument of \PotEndMark@opt has an extra }.
+<inserted text> 
+                \par 
+l.34 \end{equation}
+                   
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+{\raisebox {-1.3em}}
+./data/chap03.tex:34: Paragraph ended before \PotEndMark@opt was complete.
+<to be read again> 
+                   \par 
+l.34 \end{equation}
+                   
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+./data/chap03.tex:34: Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.34 \end{equation}
+                   
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./data/chap03.tex:34: Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.34 \end{equation}
+                   
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./data/chap03.tex:34: Missing \endcsname inserted.
+<to be read again> 
+                   \csname\endcsname 
+l.34 \end{equation}
+                   
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./data/chap03.tex:34: Missing \endcsname inserted.
+<to be read again> 
+                   \MessageBreak 
+l.34 \end{equation}
+                   
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./data/chap03.tex:34: Argument of \makesm@sh has an extra }.
+<inserted text> 
+                \par 
+l.34 \end{equation}
+                   
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+./data/chap03.tex:34: Paragraph ended before \makesm@sh was complete.
+<to be read again> 
+                   \par 
+l.34 \end{equation}
+                   
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+./data/chap03.tex:34: Undefined control sequence.
+\Hy@raisedlink ...roup \let \HyperRaiseLinkLength 
+                                                  \@tempdima \setlength \Hyp...
+l.34 \end{equation}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./data/chap03.tex:34: Undefined control sequence.
+\Hy@raisedlink ...setlength \HyperRaiseLinkLength 
+                                                  \HyperRaiseLinkDefault \Hy...
+l.34 \end{equation}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./data/chap03.tex:34: Undefined control sequence.
+\Hy@raisedlink ...aise \the \HyperRaiseLinkLength 
+                                                  \hbox {\Hy@RestoreSpaceFac...
+l.34 \end{equation}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./data/chap03.tex:34: You can't use `\hbox' after \the.
+\Hy@raisedlink ...the \HyperRaiseLinkLength \hbox 
+                                                  {\Hy@RestoreSpaceFactor #1...
+l.34 \end{equation}
+                   
+I'm forgetting what you said and using zero instead.
+
+)
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:40: Incomplete \iffalse; all text was ignored after line 34.
+<inserted text> 
+                \fi 
+l.40 \input{data/chap03}
+                        
+The file ended while I was skipping conditional text.
+This kind of error happens when you say `\if...' and forget
+the matching `\fi'. I've inserted a `\fi'; this might work.
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:41: Use of \\smash doesn't match its definition.
+\@ifnextchar ... \reserved@d =#1\def \reserved@a {
+                                                  #2}\def \reserved@b {#3}\f...
+l.41 \input
+           {data/chap04}
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:41: Argument of \@iinput has an extra }.
+<inserted text> 
+                \par 
+l.41 \input
+           {data/chap04}
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:41: Paragraph ended before \@iinput was complete.
+<to be read again> 
+                   \par 
+l.41 \input
+           {data/chap04}
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+(d:/texlive/texmf-dist/tex/latex/tools/.tex)
+Runaway definition?
+->\write \@auxout {\@writefile{loe}{\protect \contentsline {equation}\ETC.
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:41: File ended while scanning definition of \reserved@a.
+<inserted text> 
+                }
+l.41 \input
+           {data/chap04}
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:42: Use of \\smash doesn't match its definition.
+\@ifnextchar ... \reserved@d =#1\def \reserved@a {
+                                                  #2}\def \reserved@b {#3}\f...
+l.42 \input
+           {data/chap05}
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:42: Argument of \@iinput has an extra }.
+<inserted text> 
+                \par 
+l.42 \input
+           {data/chap05}
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:42: Paragraph ended before \@iinput was complete.
+<to be read again> 
+                   \par 
+l.42 \input
+           {data/chap05}
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+(d:/texlive/texmf-dist/tex/latex/tools/.tex)
+Runaway definition?
+->\write \@auxout {\@writefile{loe}{\protect \contentsline {equation}\ETC.
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:42: File ended while scanning definition of \reserved@a.
+<inserted text> 
+                }
+l.42 \input
+           {data/chap05}
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:43: Use of \\smash doesn't match its definition.
+\@ifnextchar ... \reserved@d =#1\def \reserved@a {
+                                                  #2}\def \reserved@b {#3}\f...
+l.43 \input
+           {data/chap06}
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:43: Argument of \@iinput has an extra }.
+<inserted text> 
+                \par 
+l.43 \input
+           {data/chap06}
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:43: Paragraph ended before \@iinput was complete.
+<to be read again> 
+                   \par 
+l.43 \input
+           {data/chap06}
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+(d:/texlive/texmf-dist/tex/latex/tools/.tex)
+Runaway definition?
+->\write \@auxout {\@writefile{loe}{\protect \contentsline {equation}\ETC.
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:43: File ended while scanning definition of \reserved@a.
+<inserted text> 
+                }
+l.43 \input
+           {data/chap06}
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:44: Use of \\smash doesn't match its definition.
+\@ifnextchar ... \reserved@d =#1\def \reserved@a {
+                                                  #2}\def \reserved@b {#3}\f...
+l.44 \input
+           {data/chap07}
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:44: Argument of \@iinput has an extra }.
+<inserted text> 
+                \par 
+l.44 \input
+           {data/chap07}
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:44: Paragraph ended before \@iinput was complete.
+<to be read again> 
+                   \par 
+l.44 \input
+           {data/chap07}
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+(d:/texlive/texmf-dist/tex/latex/tools/.tex)
+Runaway definition?
+->\write \@auxout {\@writefile{loe}{\protect \contentsline {equation}\ETC.
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:44: File ended while scanning definition of \reserved@a.
+<inserted text> 
+                }
+l.44 \input
+           {data/chap07}
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Undefined control sequence.
+\@calc@post@scan ...st@scan \else \def \calc@next 
+                                                  {\calc@error #1}\fi \fi \f...
+l.49 \backmatter
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Undefined control sequence.
+\@calc@post@scan ...fi \fi \fi \fi \fi \calc@next 
+                                                  
+l.49 \backmatter
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Use of \\smash doesn't match its definition.
+\protected@write ...le@protect \edef \reserved@a {
+                                                  \write #1{#3}}\reserved@a ...
+l.49 \backmatter
+                
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.49 \backmatter
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.49 \backmatter
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.49 \backmatter
+                
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
+<to be read again> 
+                   {
+l.49 \backmatter
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
+<to be read again> 
+                   {
+l.49 \backmatter
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.49 \backmatter
+                
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.49 \backmatter
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.49 \backmatter
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.49 \backmatter
+                
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
+<to be read again> 
+                   {
+l.49 \backmatter
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
+<to be read again> 
+                   {
+l.49 \backmatter
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.49 \backmatter
+                
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.49 \backmatter
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.49 \backmatter
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.49 \backmatter
+                
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Use of \ht doesn't match its definition.
+\reserved@a ...\hbox {\color@begingroup \def \ht {
+                                                  \ht }\def \dp {\dp }\def \...
+l.49 \backmatter
+                
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Use of \ht doesn't match its definition.
+\reserved@a ... {\color@begingroup \def \ht {\ht }
+                                                  \def \dp {\dp }\def \ht \z...
+l.49 \backmatter
+                
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
+<to be read again> 
+                   {
+l.49 \backmatter
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
+<to be read again> 
+                   {
+l.49 \backmatter
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.49 \backmatter
+                
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.49 \backmatter
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.49 \backmatter
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.49 \backmatter
+                
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Use of \ht doesn't match its definition.
+\reserved@a ...ef \dp {\dp }\def \ht \z@ \z@ \dp {
+                                                  \ht \z@ \z@ \dp }\edef \ht...
+l.49 \backmatter
+                
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Use of \ht doesn't match its definition.
+\reserved@a ... \ht \z@ \z@ \dp {\ht \z@ \z@ \dp }
+                                                  \edef \ht \z@ \z@ \dp \z@ ...
+l.49 \backmatter
+                
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
+<to be read a
+>>>>>>> 8c00eccf946a8e1b9b6bc039e895525b74c5d92d
