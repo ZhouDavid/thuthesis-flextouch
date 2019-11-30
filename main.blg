@@ -5,44 +5,44 @@ The style file: thuthesis-numeric.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: ref/refs.bib
-You've used 39 entries,
+You've used 41 entries,
             4107 wiz_defined-function locations,
-            1172 strings with 17995 characters,
-and the built_in function-call counts, 264392 in all, are:
-= -- 4355
-> -- 31548
-< -- 39861
-+ -- 10826
-- -- 1523
-* -- 1752
-:= -- 36669
-add.period$ -- 153
-call.type$ -- 39
-change.case$ -- 78
-chr.to.int$ -- 9829
-cite$ -- 39
-duplicate$ -- 881
-empty$ -- 2382
-format.name$ -- 692
-if$ -- 67870
+            1186 strings with 18418 characters,
+and the built_in function-call counts, 275549 in all, are:
+= -- 4550
+> -- 32885
+< -- 41514
++ -- 11281
+- -- 1602
+* -- 1836
+:= -- 38250
+add.period$ -- 159
+call.type$ -- 41
+change.case$ -- 82
+chr.to.int$ -- 10237
+cite$ -- 41
+duplicate$ -- 921
+empty$ -- 2478
+format.name$ -- 732
+if$ -- 70701
 int.to.chr$ -- 4
-int.to.str$ -- 40
+int.to.str$ -- 42
 missing$ -- 0
-newline$ -- 272
-num.names$ -- 118
-pop$ -- 14234
+newline$ -- 282
+num.names$ -- 124
+pop$ -- 14774
 preamble$ -- 1
-purify$ -- 39
+purify$ -- 41
 quote$ -- 0
-skip$ -- 26463
+skip$ -- 27612
 stack$ -- 0
-substring$ -- 12476
-swap$ -- 127
-text.length$ -- 436
+substring$ -- 12993
+swap$ -- 133
+text.length$ -- 459
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 439
+type$ -- 465
 warning$ -- 0
-while$ -- 591
+while$ -- 622
 width$ -- 0
-write$ -- 655
+write$ -- 687

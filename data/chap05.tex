@@ -5,13 +5,13 @@ In this section, we evaluate the sensing range of \textit{FlexTouch} considering
 
 Fig ~\ref{fig:experiment} illustrates our hardware setup for this study. Two strips are coming out from the phone. The signal strip is directly attached to the phone touch surface by a plastic clamp, while the grounding strip is connected to the back plate of the phone. In this study, we only look at the difference between using and not using the grounding strip. We discuss other variables pertaining to the  grounding strip in a more thorough study in later parts of this section. 
 
-% \begin{figure}[ht]
-% 	\centering
-% 	\includegraphics[width=0.70\columnwidth]{figures/evaluation_env.png}
-% 	\setlength{\belowcaptionskip}{-6pt}
-%     \caption{Experiment setup to evaluate the touch sensing coverage range.}
-%     \label{fig:experiment}
-% \end{figure}
+\begin{figure}[ht]
+	\centering
+	\includegraphics[width=0.95\columnwidth]{figures/evaluation_env.png}
+	\setlength{\belowcaptionskip}{-6pt}
+    \caption{Experiment setup to evaluate the touch sensing coverage range.}
+    \label{fig:experiment}
+\end{figure}
 	
 To evaluate the effect of different materials, We fabricated four different 5-meter long signal strips using materials including copper foil tape (CFT), ITO PET film (IPF), carbon paint (CP), and silver nanoparticle ink (SNI) with a fixed width of $1.5mm$. We set the grounding strip (5-meter long, $6mm$-wide copper foil tape) $2 cm$ away from the signal strip in this study. We recruited four participants for this experiment with an average age of 26.5 ($SD = 2.5$). The study lasted for 2 hours in total and we compensated each participant with a \$50 dollar gift card.
 
@@ -22,6 +22,13 @@ To evaluate the effect of different materials, We fabricated four different 5-me
 3) We cut both signal and grounding strips to the next neighboring length following the order of 5m, 4m, 3m, 2.5m, 2m, 1.5m, 1m, 0.5m, 0.25m and 0.1m in sequence and repeated steps 1) and 2).
 
 4) After completing the test on one material, we replaced it with another signal strip made of different material and repeated the experiment. Participants took a two-minute break between material switches.
+
+\begin{figure}[ht]
+	\centering
+	  \includegraphics[width=0.65\columnwidth]{figures/length.png}
+	  \caption{The curve between the increase of the raw capacitive value of the touchscreen and the lengths of the extension strip under different widths for Huawei P20 phone (A, B, C, D) and P10 phone (E, F, G, H). A/E: Copper foil tape. B/F: ITO plastic film. C/G: Carbon paint. D/H: silver nanoparticle ink.}
+	  \label{fig:length}
+\end{figure}
 
 
 \begin{table}[ht]
@@ -64,14 +71,14 @@ We summarize our results in Table ~\ref{tab:snrtable}, which outlines the signal
 
 \textbf{2. \textit{FlexTouch}'s sensing range is positively correlated with material conductivity.} Among the four materials, CFT achieved the longest sensing range, following by SNI and IPF, finally by CP. This ordering is consistent with the conductivity ordering of the 4 materials presented in Figure ~\ref{fig:material-width} B. We believe that materials with even better conductivity may be able to exceed the sensing range we observed in this study. 
 
-% \begin{figure}[ht]  
-% \centering
-%   \includegraphics[width=0.75\columnwidth]{figures/material-width-and-table.png}
+\begin{figure}[ht]  
+\centering
+  \includegraphics[width=0.95\columnwidth]{figures/material-width-and-table.png}
 
-%   \setlength{\belowcaptionskip}{-8pt}
-%   \caption{The SNR versus the signal strip width using four different materials (A). The table of material's resistance values ($\Omega$) under different extension lengths (B).}
-%   \label{fig:material-width}
-% \end{figure}
+  \setlength{\belowcaptionskip}{-8pt}
+  \caption{The SNR versus the signal strip width using four different materials (A). The table of material's resistance values ($\Omega$) under different extension lengths (B).}
+  \label{fig:material-width}
+\end{figure}
 
 \textbf{3. The extension distance increases as the width of the signal strip decreases.} To better understand the effect of the width of the signal strip, we conducted a follow-up study changing the width of the signal strip made with 4 different materials with a fixed length of 3 meters. We recorded the SNR in Figure ~\ref{fig:material-width} A, which demonstrates that \textit{FlexTouch} has the best performance with a $1.5mm$-wide signal strip regardless of the fabrication material. We believe that even thinner strip will be able to support longer sensing ranges. However, since a thinner strip is less conductive, we believe that there's a lower limit on the strip's width.
 
@@ -101,6 +108,22 @@ The estimated capacitance value can be represented as:
 
 We assume that $C_{e} = 100 \times L$ where $L$ represents the length (meter) of the strip since the width is assumed to be static. The curve of how the estimated capacitive value along the strip length matches the measured raw data if $a$ is assigned to 600. The pattern we see in our result matches with the model we built for explaining \textit{FlexTouch}'s working principle. 
 
+We measured the \textit{SNR} value by calculating the extremum of 100 data points (P20 phone, 40 data for P10 phone) without touching as the \textit{Noise} and the difference between the average of touching and non-touching as the \textit{Signal}. For instance, Figure ~\ref{fig:SNR} shows a sample of real data from the Huawei P20 phone with a 0.05m long, 2.7mm wide copper foil tape attached. Note that the noise baseline established from many measurements of parasitic capacitance is converted into digital counts. Similarly, when a finger is present, the system continues to measure the capacitance in order to establish an average value for the "touch" signal. In this case, the SNR is 18.1:1.
+
+\begin{figure}[ht]
+	\centering
+	  \includegraphics[width=0.95\columnwidth]{figures/estimate.png}
+	  \caption{The Comparison between the measured raw capacitive data and estimated capacitive value.}
+	  \label{fig:estimate}
+	\end{figure}
+	
+	\begin{figure}
+	\centering
+	  \includegraphics[width=0.95\columnwidth]{figures/SNR-definition.png}
+	  \caption{The calculation of SNR with raw capacitive value from a Huawei P20 phone.}
+	  \label{fig:SNR}
+	\end{figure}
+
 \section{Understanding the Effect of the Grounding Strip}
 The previous study shows the significant effect of introducing the grounding strip into the extension circuit design. There are additional variables such as the distance between the grounding strip and the signal strip, the width of the grounding strip as well as the material of the grounding strip that we would like to further evaluate to provide in-depth insights into designing touch sensing solutions with \textit{FlexTouch} in this section.
 
@@ -117,7 +140,7 @@ To measure the maximum touch sensing distance, we started with the maximum sensi
 
 \begin{figure}[ht]
 \centering
-  \includegraphics[width=0.7\columnwidth]{figures/grouding-gap-and-width.png}
+  \includegraphics[width=0.95\columnwidth]{figures/grouding-gap-and-width.png}
   \setlength{\belowcaptionskip}{-8pt}
   \caption{Maximum touch sensing distance versus the gap distance between signal and grounding strips (A). SNR versus the grounding strip width with different extension distances (B).}~\label{fig:ground-effect}
 \end{figure}
@@ -135,6 +158,7 @@ In this study, we explored whether grounding strip material affects the sensing 
 \begin{table}[ht]
 \caption{Average (standard deviation) SNR values with one strip made of CFT and the other made of one of the three materials.}
 \vspace{-2mm}
+\resizebox{\textwidth}{12mm}{
 \centering
 	\begin{tabular}{|c|c|c|c|c|c|c|c|}
 	\hline
@@ -147,7 +171,7 @@ In this study, we explored whether grounding strip material affects the sensing 
 	\hline
 	$3m$ sensing distance & 3.40 (0.20) & 3.31 (0.25) & 3.35 (0.23) & 3.22 (0.12) & 3.20 (0.08) & 3.42 (0.13) & 3.37 (0.14)   \\
 	\hline
-	\end{tabular}
+	\end{tabular}}
 	\label{tab:gnd-material}
 	
 \end{table}
@@ -187,6 +211,7 @@ Table ~\ref{tab:snrtableforobj} presents the average SNR value with 22 configura
 
 As presented in Table ~\ref{tab:snrtableforobj}, \textit{FlexTouch} can sense the presence of everyday objects by detecting the current they draw via the extension strip. The second column in Table ~\ref{tab:snrtableforobj} illustrates that all the objects change the capacitive signal extended from the touchscreen on the phone. However, the sensing range varies with the object's material. Objects made of metal have the strongest signal strength. The coverage distance ranges from $50 cm$ to $2 m$. Besides, pairing the local ground with the touch screen extension strip can dramatically enhance the object detection's sensing range. 
 
+
 \begin{table}[ht]
 \caption{Average SNRs versus extension strips' lengths with different everyday objects. The table's X and  Y values (X/Y) represents the SNR values of conditions with and without the grounding strip. }
 \vspace{-2mm}
@@ -211,6 +236,7 @@ As presented in Table ~\ref{tab:snrtableforobj}, \textit{FlexTouch} can sense th
 		
 		\label{tab:snrtableforobj}
 		
-	\end{table}
+\end{table}
+
 
 

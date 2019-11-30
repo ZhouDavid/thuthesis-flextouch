@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  30 NOV 2019 00:05
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  30 NOV 2019 07:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1134,7 +1134,6 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 ] [2
 
 
-<<<<<<< HEAD
 ] (./main.toc [3
 
 
@@ -1144,235 +1143,130 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
  [4] (./data/chap01.tex
 Chapter 1
-
-LaTeX Warning: Reference `fig:touchscreen-products' on page 1 undefined on input line 4.
-=======
-] (./main.toc)
-\tf@toc=\write4
-\openout4 = `main.toc'.
-
- [3
-
-
-] (./data/chap01.tex
-Chapter 1
 File: figures/touchproducts.png Graphic file (type bmp)
 <figures/touchproducts.png>
-
-Package natbib Warning: Citation `Ono-Touch-and-Activate' on page 1 undefined on input line 15.
-
-
-Package natbib Warning: Citation `Ono-2014' on page 1 undefined on input line 15.
-
-
-Package natbib Warning: Citation `Sato-Touche' on page 1 undefined on input line 15.
-
-
-Package natbib Warning: Citation `Xiao-WorldKit' on page 1 undefined on input line 15.
-
-
-Package natbib Warning: Citation `Rekimoto-SmartSkin' on page 1 undefined on input line 15.
-
-
-Package natbib Warning: Citation `olberding2013cuttable' on page 1 undefined on input line 15.
-
-
-Package natbib Warning: Citation `Zhang-Electrick' on page 1 undefined on input line 15.
->>>>>>> 8c00eccf946a8e1b9b6bc039e895525b74c5d92d
-
 [1
 
 
 ]
-
-<<<<<<< HEAD
-LaTeX Warning: Reference `fig:small-scale-scenarios' on page 2 undefined on input line 21.
-
-
-LaTeX Warning: Reference `fig:large-scale-scenarios' on page 2 undefined on input line 21.
-
-=======
-Package natbib Warning: Citation `Kato2015a' on page 2 undefined on input line 19.
-
-
-Package natbib Warning: Citation `Kato2015' on page 2 undefined on input line 19.
-
-
-Package natbib Warning: Citation `Kato2016' on page 2 undefined on input line 19.
-
-
-Package natbib Warning: Citation `mobicom-gao18' on page 2 undefined on input line 19.
-
-
-Package natbib Warning: Citation `Schmitz2017' on page 2 undefined on input line 19.
-
-
-Package natbib Warning: Citation `Schmitz2018' on page 2 undefined on input line 19.
-
-
-Package natbib Warning: Citation `Chan-CapStones' on page 2 undefined on input line 19.
-
-
-LaTeX Warning: Reference `fig:small-scale-scenarios' on page 2 undefined on input line 21.
-
+File: figures/small-scale-scenarios.png Graphic file (type bmp)
+<figures/small-scale-scenarios.png>
+ [2]
 File: figures/scenarios-ubicomp.png Graphic file (type bmp)
 <figures/scenarios-ubicomp.png>
->>>>>>> 8c00eccf946a8e1b9b6bc039e895525b74c5d92d
-
-LaTeX Warning: Reference `fig:small-scale' on page 2 undefined on input line 36.
-
-
-LaTeX Warning: Reference `fig:large-scalescenarios' on page 2 undefined on input line 36.
-
-<<<<<<< HEAD
-[2] [3]) (./data/chap02.tex [4]
+ [3] [4]) (./data/chap02.tex [5]
 Chapter 2
+File: figures/cv-large-scale-sensing.png Graphic file (type bmp)
+<figures/cv-large-scale-sensing.png>
+[6
 
-LaTeX Warning: Reference `fig:cv-large-scale-interaction' on page 5 undefined on input line 5.
-
-[5
-
-] [6]) (./data/chap03.tex [7]
+]
+File: figures/acoustic-sensing.png Graphic file (type bmp)
+<figures/acoustic-sensing.png>
+File: figures/smartskin.png Graphic file (type bmp)
+<figures/smartskin.png>
+File: figures/electrick.png Graphic file (type bmp)
+<figures/electrick.png>
+ [7]
+File: figures/cuttable.png Graphic file (type bmp)
+<figures/cuttable.png>
+ [8]
+File: figures/multi-layer-touchscreen.png Graphic file (type bmp)
+<figures/multi-layer-touchscreen.png>
+File: figures/capacitive-auth.png Graphic file (type bmp)
+<figures/capacitive-auth.png>
+ [9] [10]
+File: figures/ambient-capcitive-sensing.png Graphic file (type bmp)
+<figures/ambient-capcitive-sensing.png>
+ [11]) (./data/chap03.tex [12] [13]
 Chapter 3
+File: figures/touchscreen-principle-circuit.png Graphic file (type bmp)
+<figures/touchscreen-principle-circuit.png>
+[14
 
-LaTeX Warning: Reference `fig:plugandplay' on page 8 undefined on input line 4.
-
-
-LaTeX Warning: Reference `fig:mode' on page 8 undefined on input line 14.
-
-Package hyperref Info: bookmark level for unknown equation defaults to 0 on input line 18.
-[8
-
-]) (./data/chap04.tex [9]
+] [15]
+File: figures/flextouch-principle-circuit.png Graphic file (type bmp)
+<figures/flextouch-principle-circuit.png>
+Package hyperref Info: bookmark level for unknown equation defaults to 0 on input line 37.
+ [16]) (./data/chap04.tex [17]
 Chapter 4
-
-LaTeX Warning: Reference `fig:processing' on page 10 undefined on input line 8.
-
-
-LaTeX Warning: Reference `fig:processing' on page 10 undefined on input line 8.
-
-
-LaTeX Warning: Reference `fig:processing' on page 10 undefined on input line 14.
-
-[10
+File: figures/rawdata.png Graphic file (type bmp)
+<figures/rawdata.png>
+[18
 
 ]
-
-LaTeX Warning: Reference `fig:material' on page 11 undefined on input line 29.
-
-
-LaTeX Warning: Reference `fig:material' on page 11 undefined on input line 31.
-
-
-LaTeX Warning: Reference `fig:material' on page 11 undefined on input line 42.
-
-
-LaTeX Warning: Reference `fig:plugandplay' on page 11 undefined on input line 44.
-
-
-LaTeX Warning: Reference `fig:plugandplay' on page 11 undefined on input line 44.
-
-[11]
-
-LaTeX Warning: Reference `fig:material' on page 12 undefined on input line 47.
-
-
-LaTeX Warning: Reference `fig:material' on page 12 undefined on input line 47.
-
-
-LaTeX Warning: Reference `fig:plugandplay' on page 12 undefined on input line 52.
-
-
-LaTeX Warning: Reference `fig:plugandplay' on page 12 undefined on input line 56.
-
-
-LaTeX Warning: Reference `fig:plugandplay' on page 12 undefined on input line 56.
-
-) (./data/chap05.tex [12]
+File: figures/1d2d-principle.png Graphic file (type bmp)
+<figures/1d2d-principle.png>
+ [19]
+File: figures/processing.png Graphic file (type bmp)
+<figures/processing.png>
+ [20]
+File: figures/material.png Graphic file (type bmp)
+<figures/material.png>
+ [21]
+File: figures/plugandplay.png Graphic file (type bmp)
+<figures/plugandplay.png>
+) (./data/chap05.tex [22] [23]
 Chapter 5
-
-LaTeX Warning: Reference `fig:experiment' on page 13 undefined on input line 6.
-
-[13
+File: figures/evaluation_env.png Graphic file (type bmp)
+<figures/evaluation_env.png>
+[24
 
 ]
-LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 31.
+File: figures/length.png Graphic file (type bmp)
+<figures/length.png>
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 38.
 LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
-(Font)              scaled to size 11.04242pt on input line 31.
+(Font)              scaled to size 11.04242pt on input line 38.
 LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
-(Font)              scaled to size 7.72966pt on input line 31.
+(Font)              scaled to size 7.72966pt on input line 38.
 LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
-(Font)              scaled to size 5.5212pt on input line 31.
+(Font)              scaled to size 5.5212pt on input line 38.
 LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
-(Font)              scaled to size 11.04005pt on input line 31.
+(Font)              scaled to size 11.04005pt on input line 38.
 LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
-(Font)              scaled to size 7.728pt on input line 31.
+(Font)              scaled to size 7.728pt on input line 38.
 LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
-(Font)              scaled to size 5.52002pt on input line 31.
-
-
-LaTeX Warning: Reference `fig:material-width' on page 14 undefined on input line 65.
-
-[14]
-
-LaTeX Warning: Reference `fig:material-width' on page 15 undefined on input line 76.
-
-[15] [16]
+(Font)              scaled to size 5.52002pt on input line 38.
+ [25] [26]
+File: figures/material-width-and-table.png Graphic file (type bmp)
+<figures/material-width-and-table.png>
+ [27]
+File: figures/estimate.png Graphic file (type bmp)
+<figures/estimate.png>
+File: figures/SNR-definition.png Graphic file (type bmp)
+<figures/SNR-definition.png>
+ [28] [29]
 File: figures/grouding-gap-and-width.png Graphic file (type bmp)
 <figures/grouding-gap-and-width.png>
- [17]
-Overfull \hbox (102.29637pt too wide) in paragraph at lines 139--152
+ [30] [31] [32]
+Overfull \hbox (7.13438pt too wide) in paragraph at lines 219--236
  [][] 
  []
 
-[18] [19]
-Overfull \hbox (7.13438pt too wide) in paragraph at lines 194--211
- [][] 
- []
-
-) (./data/chap06.tex [20]
+) (./data/chap06.tex [33]
 Chapter 6
-
-LaTeX Warning: Reference `fig:smartmattress' on page 21 undefined on input line 5.
-
-
-LaTeX Warning: Reference `fig:smartmattress' on page 21 undefined on input line 5.
-
-
-LaTeX Warning: Reference `fig:smartmattress' on page 21 undefined on input line 5.
-
-
-LaTeX Warning: Reference `fig:smartmattress' on page 21 undefined on input line 5.
-
-
-LaTeX Warning: Reference `fig:smartmattress' on page 21 undefined on input line 19.
-
-[21
+File: figures/FlexTouch-mattress.png Graphic file (type bmp)
+<figures/FlexTouch-mattress.png>
+[34
 
 ]
-
-LaTeX Warning: Reference `fig:yogamat' on page 22 undefined on input line 30.
-
-[22]
+File: figures/FlexTouch-yoga-new.png Graphic file (type bmp)
+<figures/FlexTouch-yoga-new.png>
+ [35] [36]
 File: figures/gym.png Graphic file (type bmp)
 <figures/gym.png>
- [23]
-
-LaTeX Warning: Reference `fig:smartdesk' on page 24 undefined on input line 56.
-
-[24]
-
-LaTeX Warning: Reference `fig:smartdesk' on page 25 undefined on input line 71.
-
-) (./data/chap07.tex [25]
+ [37]
+File: figures/FlexTouch-desk.png Graphic file (type bmp)
+<figures/FlexTouch-desk.png>
+ [38]) (./data/chap07.tex [39]
 Chapter 7
-[26
+[40
 
-] [27]
-
-LaTeX Warning: Reference `fig:3d layout' on page 28 undefined on input line 22.
-
-) [28] [29] (./main.bbl
+] [41]
+File: figures/3d_layout.png Graphic file (type bmp)
+<figures/3d_layout.png>
+) [42] [43] (./main.bbl
 LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
 (Font)              scaled to size 7.00075pt on input line 14.
 LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
@@ -1381,14 +1275,14 @@ LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
 (Font)              scaled to size 6.99925pt on input line 14.
 LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
 (Font)              scaled to size 4.99947pt on input line 14.
- [30
+ [44
 
 
 
-] [31] [32]) (./data/ack.tex [33] [34
+] [45] [46]) (./data/ack.tex [47] [48
 
 
-]) (./data/resume.tex [35
+]) (./data/resume.tex [49
 
 
 ])
@@ -1396,7 +1290,7 @@ LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
 \openout5 = `main.thm'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 83.
- [36
+ [50
 
 
 ]
@@ -1405,797 +1299,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 83.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 83.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 83.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: CADEB22D1562A52093D086862D44A30F.
-
-
-LaTeX Warning: There were undefined references.
-
+(rerunfilecheck)             Checksum: BC7F274D74A80763F3CADDA9D4309F06.
  ) 
 Here is how much of TeX's memory you used:
- 35182 strings out of 492916
- 673578 string characters out of 6133346
- 884340 words of memory out of 5000000
- 38655 multiletter control sequences out of 15000+600000
+ 35306 strings out of 492916
+ 677069 string characters out of 6133346
+ 890879 words of memory out of 5000000
+ 38753 multiletter control sequences out of 15000+600000
  541118 words of font info for 185 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  66i,12n,120p,2599b,2766s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (46 pages).
-=======
-[2] [3] [4]) (./data/chap02.tex [5]
-Chapter 2
-
-Package natbib Warning: Citation `pinhanez2001everywhere' on page 6 undefined on input line 5.
-
-
-Package natbib Warning: Citation `Fails-2002-Light-Widgets' on page 6 undefined on input line 5.
-
-
-Package natbib Warning: Citation `Wilson-2010-Light-Space' on page 6 undefined on input line 5.
-
-
-Package natbib Warning: Citation `Xiao-WorldKit' on page 6 undefined on input line 5.
-
-
-Package natbib Warning: Citation `Paradiso-2002-Window' on page 6 undefined on input line 7.
-
-
-Package natbib Warning: Citation `Harrison-2008-Scratch-iput' on page 6 undefined on input line 7.
-
-
-Package natbib Warning: Citation `Rekimoto-SmartSkin' on page 6 undefined on input line 9.
-
-
-Package natbib Warning: Citation `Zhang-Electrick' on page 6 undefined on input line 9.
-
-
-Package natbib Warning: Citation `Zhang-pulp' on page 6 undefined on input line 9.
-
-
-Package natbib Warning: Citation `Sato-Touche' on page 6 undefined on input line 9.
-
-
-Package natbib Warning: Citation `Savage-2012-Midas' on page 6 undefined on input line 9.
-
-
-Package natbib Warning: Citation `Zhang-wall' on page 6 undefined on input line 9.
-
-
-Package natbib Warning: Citation `gong2014printsense' on page 6 undefined on input line 9.
-
-
-Package natbib Warning: Citation `olberding2015foldio' on page 6 undefined on input line 9.
-
-
-Package natbib Warning: Citation `olberding2014printscreen' on page 6 undefined on input line 9.
-
-
-Package natbib Warning: Citation `vadgama2017flexy' on page 6 undefined on input line 9.
-
-
-Package natbib Warning: Citation `Grosse-Puppendahl-capacitive' on page 6 undefined on input line 12.
-
-
-Package natbib Warning: Citation `Holz-bodyprint' on page 6 undefined on input line 12.
-
-
-Package natbib Warning: Citation `Guo2015' on page 6 undefined on input line 12.
-
-
-Package natbib Warning: Citation `Le-palmtouch' on page 6 undefined on input line 12.
-
-
-Package natbib Warning: Citation `Chan-CapStones' on page 6 undefined on input line 12.
-
-
-Package natbib Warning: Citation `Schmitz2017' on page 6 undefined on input line 12.
-
-
-Package natbib Warning: Citation `Schmitz2018' on page 6 undefined on input line 12.
-
-[6
-
-]
-
-Package natbib Warning: Citation `Cheng2013a' on page 7 undefined on input line 14.
-
-
-Package natbib Warning: Citation `Cheng-2013-IrotateGrasp' on page 7 undefined on input line 14.
-
-
-Package natbib Warning: Citation `laput2015acoustruments' on page 7 undefined on input line 16.
-
-
-Package natbib Warning: Citation `wen2016ubitouch' on page 7 undefined on input line 16.
-
-
-Package natbib Warning: Citation `wang2014ubiquitous' on page 7 undefined on input line 16.
-
-[7]
-
-Package natbib Warning: Citation `Yu2011' on page 8 undefined on input line 18.
-
-
-Package natbib Warning: Citation `Kato2016' on page 8 undefined on input line 18.
-
-
-Package natbib Warning: Citation `Kato2015' on page 8 undefined on input line 18.
-
-
-Package natbib Warning: Citation `Kato2015a' on page 8 undefined on input line 18.
-
-
-Package natbib Warning: Citation `mobicom-gao18' on page 8 undefined on input line 18.
-
-
-Package natbib Warning: Citation `Ikematsu-Ohmic-Touch' on page 8 undefined on input line 18.
-
-) (./data/chap03.tex [8]
-Chapter 3
-
-Package natbib Warning: Citation `Kato2015' on page 9 undefined on input line 4.
-
-
-Package natbib Warning: Citation `Kato2015a' on page 9 undefined on input line 4.
-
-
-Package natbib Warning: Citation `mobicom-gao18' on page 9 undefined on input line 4.
-
-
-Package natbib Warning: Citation `Ikematsu-Ohmic-Touch' on page 9 undefined on input line 4.
-
-
-LaTeX Warning: Reference `fig:plugandplay' on page 9 undefined on input line 4.
-
-File: figures/principle_mode.png Graphic file (type bmp)
-<figures/principle_mode.png>
-
-LaTeX Warning: Reference `fig:mode' on page 9 undefined on input line 14.
-
-[9
-
-]
-Package hyperref Info: bookmark level for unknown equation defaults to 0 on input line 18.
-
-./data/chap03.tex:34: Undefined control sequence.
-\Hy@raisedlink ...roup \let \HyperRaiseLinkLength 
-                                                  \@tempdima \setlength \Hyp...
-l.34 \end{equation}
-                   
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./data/chap03.tex:34: Undefined control sequence.
-\Hy@raisedlink ...setlength \HyperRaiseLinkLength 
-                                                  \HyperRaiseLinkDefault \Hy...
-l.34 \end{equation}
-                   
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./data/chap03.tex:34: Undefined control sequence.
-\Hy@raisedlink ...aise \the \HyperRaiseLinkLength 
-                                                  \hbox {\Hy@RestoreSpaceFac...
-l.34 \end{equation}
-                   
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./data/chap03.tex:34: You can't use `\hbox' after \the.
-\Hy@raisedlink ...the \HyperRaiseLinkLength \hbox 
-                                                  {\Hy@RestoreSpaceFactor #1...
-l.34 \end{equation}
-                   
-I'm forgetting what you said and using zero instead.
-
-./data/chap03.tex:34: Use of \\smash doesn't match its definition.
-\@ifnextchar ... \reserved@d =#1\def \reserved@a {
-                                                  #2}\def \reserved@b {#3}\f...
-l.34 \end{equation}
-                   
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-./data/chap03.tex:34: Argument of \PotEndMark@opt has an extra }.
-<inserted text> 
-                \par 
-l.34 \end{equation}
-                   
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-{\raisebox {-1.3em}}
-./data/chap03.tex:34: Paragraph ended before \PotEndMark@opt was complete.
-<to be read again> 
-                   \par 
-l.34 \end{equation}
-                   
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-./data/chap03.tex:34: Missing \endcsname inserted.
-<to be read again> 
-                   \csname\endcsname 
-l.34 \end{equation}
-                   
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./data/chap03.tex:34: Missing \endcsname inserted.
-<to be read again> 
-                   \csname\endcsname 
-l.34 \end{equation}
-                   
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./data/chap03.tex:34: Missing \endcsname inserted.
-<to be read again> 
-                   \csname\endcsname 
-l.34 \end{equation}
-                   
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./data/chap03.tex:34: Missing \endcsname inserted.
-<to be read again> 
-                   \MessageBreak 
-l.34 \end{equation}
-                   
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-./data/chap03.tex:34: Argument of \makesm@sh has an extra }.
-<inserted text> 
-                \par 
-l.34 \end{equation}
-                   
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-./data/chap03.tex:34: Paragraph ended before \makesm@sh was complete.
-<to be read again> 
-                   \par 
-l.34 \end{equation}
-                   
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-./data/chap03.tex:34: Undefined control sequence.
-\Hy@raisedlink ...roup \let \HyperRaiseLinkLength 
-                                                  \@tempdima \setlength \Hyp...
-l.34 \end{equation}
-                   
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./data/chap03.tex:34: Undefined control sequence.
-\Hy@raisedlink ...setlength \HyperRaiseLinkLength 
-                                                  \HyperRaiseLinkDefault \Hy...
-l.34 \end{equation}
-                   
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./data/chap03.tex:34: Undefined control sequence.
-\Hy@raisedlink ...aise \the \HyperRaiseLinkLength 
-                                                  \hbox {\Hy@RestoreSpaceFac...
-l.34 \end{equation}
-                   
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./data/chap03.tex:34: You can't use `\hbox' after \the.
-\Hy@raisedlink ...the \HyperRaiseLinkLength \hbox 
-                                                  {\Hy@RestoreSpaceFactor #1...
-l.34 \end{equation}
-                   
-I'm forgetting what you said and using zero instead.
-
-)
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:40: Incomplete \iffalse; all text was ignored after line 34.
-<inserted text> 
-                \fi 
-l.40 \input{data/chap03}
-                        
-The file ended while I was skipping conditional text.
-This kind of error happens when you say `\if...' and forget
-the matching `\fi'. I've inserted a `\fi'; this might work.
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:41: Use of \\smash doesn't match its definition.
-\@ifnextchar ... \reserved@d =#1\def \reserved@a {
-                                                  #2}\def \reserved@b {#3}\f...
-l.41 \input
-           {data/chap04}
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:41: Argument of \@iinput has an extra }.
-<inserted text> 
-                \par 
-l.41 \input
-           {data/chap04}
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:41: Paragraph ended before \@iinput was complete.
-<to be read again> 
-                   \par 
-l.41 \input
-           {data/chap04}
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-(d:/texlive/texmf-dist/tex/latex/tools/.tex)
-Runaway definition?
-->\write \@auxout {\@writefile{loe}{\protect \contentsline {equation}\ETC.
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:41: File ended while scanning definition of \reserved@a.
-<inserted text> 
-                }
-l.41 \input
-           {data/chap04}
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:42: Use of \\smash doesn't match its definition.
-\@ifnextchar ... \reserved@d =#1\def \reserved@a {
-                                                  #2}\def \reserved@b {#3}\f...
-l.42 \input
-           {data/chap05}
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:42: Argument of \@iinput has an extra }.
-<inserted text> 
-                \par 
-l.42 \input
-           {data/chap05}
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:42: Paragraph ended before \@iinput was complete.
-<to be read again> 
-                   \par 
-l.42 \input
-           {data/chap05}
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-(d:/texlive/texmf-dist/tex/latex/tools/.tex)
-Runaway definition?
-->\write \@auxout {\@writefile{loe}{\protect \contentsline {equation}\ETC.
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:42: File ended while scanning definition of \reserved@a.
-<inserted text> 
-                }
-l.42 \input
-           {data/chap05}
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:43: Use of \\smash doesn't match its definition.
-\@ifnextchar ... \reserved@d =#1\def \reserved@a {
-                                                  #2}\def \reserved@b {#3}\f...
-l.43 \input
-           {data/chap06}
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:43: Argument of \@iinput has an extra }.
-<inserted text> 
-                \par 
-l.43 \input
-           {data/chap06}
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:43: Paragraph ended before \@iinput was complete.
-<to be read again> 
-                   \par 
-l.43 \input
-           {data/chap06}
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-(d:/texlive/texmf-dist/tex/latex/tools/.tex)
-Runaway definition?
-->\write \@auxout {\@writefile{loe}{\protect \contentsline {equation}\ETC.
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:43: File ended while scanning definition of \reserved@a.
-<inserted text> 
-                }
-l.43 \input
-           {data/chap06}
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:44: Use of \\smash doesn't match its definition.
-\@ifnextchar ... \reserved@d =#1\def \reserved@a {
-                                                  #2}\def \reserved@b {#3}\f...
-l.44 \input
-           {data/chap07}
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:44: Argument of \@iinput has an extra }.
-<inserted text> 
-                \par 
-l.44 \input
-           {data/chap07}
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:44: Paragraph ended before \@iinput was complete.
-<to be read again> 
-                   \par 
-l.44 \input
-           {data/chap07}
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-(d:/texlive/texmf-dist/tex/latex/tools/.tex)
-Runaway definition?
-->\write \@auxout {\@writefile{loe}{\protect \contentsline {equation}\ETC.
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:44: File ended while scanning definition of \reserved@a.
-<inserted text> 
-                }
-l.44 \input
-           {data/chap07}
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Undefined control sequence.
-\@calc@post@scan ...st@scan \else \def \calc@next 
-                                                  {\calc@error #1}\fi \fi \f...
-l.49 \backmatter
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Undefined control sequence.
-\@calc@post@scan ...fi \fi \fi \fi \fi \calc@next 
-                                                  
-l.49 \backmatter
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Use of \\smash doesn't match its definition.
-\protected@write ...le@protect \edef \reserved@a {
-                                                  \write #1{#3}}\reserved@a ...
-l.49 \backmatter
-                
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
-<to be read again> 
-                   }
-l.49 \backmatter
-                
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
-<to be read again> 
-                   }
-l.49 \backmatter
-                
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   }
-l.49 \backmatter
-                
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
-<to be read again> 
-                   {
-l.49 \backmatter
-                
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
-<to be read again> 
-                   {
-l.49 \backmatter
-                
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   {
-l.49 \backmatter
-                
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
-<to be read again> 
-                   }
-l.49 \backmatter
-                
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
-<to be read again> 
-                   }
-l.49 \backmatter
-                
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   }
-l.49 \backmatter
-                
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
-<to be read again> 
-                   {
-l.49 \backmatter
-                
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
-<to be read again> 
-                   {
-l.49 \backmatter
-                
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   {
-l.49 \backmatter
-                
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
-<to be read again> 
-                   }
-l.49 \backmatter
-                
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
-<to be read again> 
-                   }
-l.49 \backmatter
-                
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   }
-l.49 \backmatter
-                
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Use of \ht doesn't match its definition.
-\reserved@a ...\hbox {\color@begingroup \def \ht {
-                                                  \ht }\def \dp {\dp }\def \...
-l.49 \backmatter
-                
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Use of \ht doesn't match its definition.
-\reserved@a ... {\color@begingroup \def \ht {\ht }
-                                                  \def \dp {\dp }\def \ht \z...
-l.49 \backmatter
-                
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
-<to be read again> 
-                   {
-l.49 \backmatter
-                
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
-<to be read again> 
-                   {
-l.49 \backmatter
-                
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   {
-l.49 \backmatter
-                
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
-<to be read again> 
-                   }
-l.49 \backmatter
-                
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
-<to be read again> 
-                   }
-l.49 \backmatter
-                
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   }
-l.49 \backmatter
-                
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Use of \ht doesn't match its definition.
-\reserved@a ...ef \dp {\dp }\def \ht \z@ \z@ \dp {
-                                                  \ht \z@ \z@ \dp }\edef \ht...
-l.49 \backmatter
-                
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Use of \ht doesn't match its definition.
-\reserved@a ... \ht \z@ \z@ \dp {\ht \z@ \z@ \dp }
-                                                  \edef \ht \z@ \z@ \dp \z@ ...
-l.49 \backmatter
-                
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-c:/Users/Jianyu Zhou/Desktop/thesis/Flextouch/thuthesis-flextouch/main.tex:49: Missing number, treated as zero.
-<to be read a
->>>>>>> 8c00eccf946a8e1b9b6bc039e895525b74c5d92d
+Output written on main.pdf (60 pages).

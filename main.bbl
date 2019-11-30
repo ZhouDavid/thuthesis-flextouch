@@ -1,4 +1,4 @@
-\begin{thebibliography}{39}
+\begin{thebibliography}{41}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\relax\else
@@ -340,6 +340,18 @@ CHI '18: Proceedings of the 2018 CHI Conference on Human Factors in Computing
   Systems.
 \newblock New York, NY, USA: ACM, 2018: 521:1-521:8.
 \newblock \url{http://doi.acm.org/10.1145/3173574.3174095}.
+
+\bibitem[{Ye} et~al.(2015){Ye}, {Wong}, {Ng}, {Chui}, {Kong}, {Lu}, {Liu}, and
+  {Luo}]{ye2015high}
+{Ye}~Z, {Wong}~M, {Ng}~M, et~al.
+\newblock High precision active-matrix self-capacitive touch panel based on
+  fluorinated zno thin-film transistor\allowbreak[J].
+\newblock Journal of Display Technology, 2015, 11\penalty0 (1):\penalty0 22-29.
+
+\bibitem[Barrett et~al.(2010)Barrett and Omote]{barrett2010projected}
+Barrett~G, Omote~R.
+\newblock Projected-capacitive touch technology\allowbreak[J].
+\newblock Information Display, 2010, 26\penalty0 (3):\penalty0 16-21.
 
 \bibitem[Technology(2018)]{ITO}
 Technology~A.
