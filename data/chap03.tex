@@ -28,6 +28,9 @@ The touchscreen controller transmits a series of step voltage signals to scan th
 We assume that $C_{m}$ and $C_{p}$ are static with value around $10pF$. The value of $C_{e}$ depends on the characteristics of the extended surfaces such as conductivity of the material, length, and width as well as the intersection effect between the extended elements. $C_{f}$ typically varies from several to dozens of $pF$ introduced by human touch. 
 
 Fully understanding the effect of $C_{e}$ is the key to exploring the upper-limit of \textit{FlexTouch}'s performance. In pursuit of testing this limit, we simply model the mutual capacitance between the extended material and the virtual ground with following formula.
-% \[C_{e} = \varepsilon \frac{A}{d} = \varepsilon \frac{L \times D}{d} \tag{3}\]
+
+\begin{equation}
+    C_{e} = \varepsilon \frac{A}{d} = \varepsilon \frac{L \times D}{d} \tag{3}
+\end{equation}
 
 $A$ represents the scale of dimensions of extension strips including length ($L$) and width ($D$), $d$ represents the separation between the signal strip and the local ground, and $\varepsilon$ represents the material's permittivity of extension strips. Therefore, to fully evaluate the sensing distance capability of \textit{FlexTouch}, we need to study the effect of variable factors contained in the fabrication material along with the width and gap distance of the extension strips.
