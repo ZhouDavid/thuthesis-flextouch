@@ -13,13 +13,13 @@ Fig ~\ref{fig:processing} demonstrates the signal processing procedure to detect
 
 Here we define the \textbf{\textit{signal-to-noise ratio (SNR)}} representing the signal strength of the raw capacitive data. As shown in Fig ~\ref{fig:processing}, we define the \textbf{\textit{Noise}} to be the difference between the maximum and minimum values of 100 data points for P20 before the touch event. The \textbf{\textit{Signal}} is the $S_{diff}$. To extract the touch signal from the background noise effectively, the SNR should be greater than a predetermined threshold. In theory, if SNR > 1, we can detect touch events. 
 
-\begin{figure}[ht]
-    \centering
-      \includegraphics[width=0.75\columnwidth]{figures/processing.png}
-      \setlength{\belowcaptionskip}{-8pt}
-      \caption{Signal processing demo  detecting the touch event.}
-      \label{fig:processing}
-\end{figure}
+% \begin{figure}[ht]
+%     \centering
+%       \includegraphics[width=0.75\columnwidth]{figures/processing.png}
+%       \setlength{\belowcaptionskip}{-8pt}
+%       \caption{Signal processing demo  detecting the touch event.}
+%       \label{fig:processing}
+% \end{figure}
 
 
 \section{Fabrication}
@@ -30,13 +30,13 @@ Conductive adhesive tapes are widely used for electromagnetic shielding and tran
 
 End-users can manually arrange any layout on any surface using copper foil tapes (e.g., Fig ~\ref{fig:material} E) without any additional fabrication equipment. In addition, the conductive tape is more flexible and suitable for large-scale applications since it can easily adhere to everyday objects. However, the copper foil tape is not suitable for volume production since it is not compatible with current fabricating techniques such as laser cutting or printing. 
 
-\begin{figure}
-\centering
-  \includegraphics[width=0.7\columnwidth]{figures/material.png}
-  \setlength{\belowcaptionskip}{-8pt}
-  \caption{Commercially available materials. Copper foil tape (A) can be fixed to any surface (E). ITO PET Plastic film (B) can be fabricated to any 2D pattern using a laser cutter (F) or manually. Bare conductive carbon paint (C) and screen painting (G). Ink-jet circuit printer with Mitsubishi Silver nanoparticle ink (D) for printable conductive 2D layout (H). }
-  \label{fig:material}
-\end{figure}
+% \begin{figure}
+% \centering
+%   \includegraphics[width=0.7\columnwidth]{figures/material.png}
+%   \setlength{\belowcaptionskip}{-8pt}
+%   \caption{Commercially available materials. Copper foil tape (A) can be fixed to any surface (E). ITO PET Plastic film (B) can be fabricated to any 2D pattern using a laser cutter (F) or manually. Bare conductive carbon paint (C) and screen painting (G). Ink-jet circuit printer with Mitsubishi Silver nanoparticle ink (D) for printable conductive 2D layout (H). }
+%   \label{fig:material}
+% \end{figure}
 
 \subsection{Conductive Films}
 Film-like materials can be subtracted to 2D patterns using cutting or etching fabrication methods. One example material is the flexible Indium Tin Oxide (ITO) coated PET plastic film that is semi-transparent and conductive. We use the commercially available ITO-coated PET film manufactured by HNXCKJ ~\cite{ITO} that is compatible with laser cutters. Furthermore, 2D custom layouts are also available by coating ITO materials on extremely thin ($0.05 mm$) plastic film at a cost of \$30 per square foot (Fig ~\ref{fig:material} B).
@@ -56,11 +56,11 @@ In this section, we present \textit{FlexTouch}'s plug and play interface for dai
     \item \textbf{Fix the external application on the phone's edge with a clip.} The external application is connected with an array of conductive threads on one side of the clip while the electrodes on the 2D pattern representing the local ground are connected on the other side of the clip as shown in Fig ~\ref{fig:plugandplay} C. The customized part can be clipped onto the edge of the touchscreen as shown in Fig ~\ref{fig:plugandplay} D. 
 \end{itemize}
 
-\begin{figure}[ht]
-    \centering
-      \includegraphics[width=0.8\columnwidth]{figures/plugandplay.png}
-      \setlength{\belowcaptionskip}{-8pt}
-      \caption{Demonstration of two assembly methods. The ITO strip array interface (A) can be stuck to a 2D-patterned application (B). The external application can be clipped onto the edge of the touchscreen (C and D).}
-      \label{fig:plugandplay}
-\end{figure}
+% \begin{figure}[ht]
+%     \centering
+%       \includegraphics[width=0.8\columnwidth]{figures/plugandplay.png}
+%       \setlength{\belowcaptionskip}{-8pt}
+%       \caption{Demonstration of two assembly methods. The ITO strip array interface (A) can be stuck to a 2D-patterned application (B). The external application can be clipped onto the edge of the touchscreen (C and D).}
+%       \label{fig:plugandplay}
+% \end{figure}
 

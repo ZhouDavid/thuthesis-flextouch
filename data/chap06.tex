@@ -4,13 +4,13 @@ In this section, we present four example applications to demonstrate the versati
 \section{Smart Mattress for Sleep Monitoring}
 As \textit{FlexTouch}'s sensing range can reach up to 4 meters, we can leverage this long-range capability to detect users' behaviors while they're in bed. This is achieved by fabricating a three-layer structure with $5 \times 6 = 30$ sensing notes as presented in Fig ~\ref{fig:smartmattress} A - C. Each sensing node on the top layer is formed with a signal and a grounding electrode (Fig ~\ref{fig:smartmattress} B). All electrode pairs are connected to electrodes on the bottom layer. We placed a mattress on a wooden board and affixed a copper-tape circuit (Fig ~\ref{fig:smartmattress} C) with its electrodes connected with the electrodes on the bottom layer of the mattress. We activated the application by plugging in the touchscreen phone using a clip with an array of copper foil tapes attached (Fig ~\ref{fig:smartmattress} E to I). The material cost of this application was 10 USD.
 
-\begin{figure}[ht]
-  \centering
-    \includegraphics[width=0.85\columnwidth]{figures/FlexTouch-mattress.png}
-    \setlength{\belowcaptionskip}{-6pt}
-    \caption{The structure of the smart mattress (A - C), the classification confusion matrix (D)  and the five detected states (E - I) with corresponding scenarios and raw sensing data visualization}
-    \label{fig:smartmattress}
-  \end{figure}
+% \begin{figure}[ht]
+%   \centering
+%     \includegraphics[width=0.85\columnwidth]{figures/FlexTouch-mattress.png}
+%     \setlength{\belowcaptionskip}{-6pt}
+%     \caption{The structure of the smart mattress (A - C), the classification confusion matrix (D)  and the five detected states (E - I) with corresponding scenarios and raw sensing data visualization}
+%     \label{fig:smartmattress}
+%   \end{figure}
 
 \subsection{User Evaluation}
 To evaluate the performance of the smart mattress, we recruited eight pairs of participants (10 males) with an average age of 25.6 (SD = 2.2) and an average height of 170 cm (SD = 5.3) who we compensated with a \$20 gift card for a 30-minute test. There was one practice session followed by three data collection sessions. For each session, the paired participants followed the instruction of \textit{single user sitting on the bed}, \textit{single user lying on the bed}, \textit{one user sitting and one user lying on the bed}, \textit{two users lying on the bed} in order. The paired participants repeated the above procedure in each session five times and kept each posture for approximately 4 seconds. We logged the raw capacitive data with a Huawei P20 phone and logged the procedure with a camera for labeling. 
@@ -21,11 +21,11 @@ All samples were manually labeled according to the video. We picked frames out o
 \section{Smart Yoga Mat for Fitness Posture Detection}
 The sensing range of \textit{FlexTouch} allows us to enable large-scale sensing applications such as a yoga mat.  \textit{FlexTouch} can detect and classify different user poses based on their capacitive profiles when working out on the yoga mat. Leveraging this functionality, smart home applications can adjust the surrounding environment based on users' physical activities. For instance, it could adjust ambient light, temperature, and music according to the user's activity on the yoga mat. The materials we used to build the touch-sensitive yoga mat cost just 8 USD. 
 
-\begin{figure}[ht]
-\centering
-  \includegraphics[width=0.95\columnwidth]{figures/FlexTouch-yoga-new.png}
-  \caption{Recognizing user's posture on the yoga mat built by \textit{FlexTouch} with raw sensing image data}  \label{fig:yogamat}
-\end{figure}
+% \begin{figure}[ht]
+% \centering
+%   \includegraphics[width=0.95\columnwidth]{figures/FlexTouch-yoga-new.png}
+%   \caption{Recognizing user's posture on the yoga mat built by \textit{FlexTouch} with raw sensing image data}  \label{fig:yogamat}
+% \end{figure}
 
 As shown in figure ~\ref{fig:yogamat}, we built a 2D-patterned matrix ($8\times11 = 88$ sensing nodes) on a regular yoga mat using ITO strips, which can classify five different yoga poses (lord of the dance pose, plank, high lunge variation, camel pose and lotus pose).
 
@@ -56,13 +56,13 @@ We measured the maximum riding speed from the cycling machine, the maximum runni
 Given the flexible and passive nature of \textit{FlexTouch}, we recognize the potential to integrate it into large surfaces such as tables or desks to detect interaction with humans or everyday objects (Fig ~\ref{fig:smartdesk}). In this example, we placed three sensing nodes $40 cm$ away from the touchscreen to sense the user's body contact as well as one sensing node with $20 cm$ distance to sense the cup's water status (i.e. the amount of water remaining in the cup). When the user is working, instead of placing the phone on the desk, the user uses \textit{FlexTouch} to activate the smart desk application. It can remind users to take a break or stay hydrated by drinking water while they work continuously for a while. This is achieved by extending the touch sensing node to the desk where users lay their arm and place the water cup. The material cost for building this application was 0.30 USD.
 
 
-\begin{figure}[ht]
-\centering
-  \includegraphics[width=0.8\columnwidth]{figures/FlexTouch-desk.png}
-  \setlength{\belowcaptionskip}{-4pt}
-  \caption{Smart desk example detecting user and object's presence and status}
-  \label{fig:smartdesk}
-\end{figure}
+% \begin{figure}[ht]
+% \centering
+%   \includegraphics[width=0.8\columnwidth]{figures/FlexTouch-desk.png}
+%   \setlength{\belowcaptionskip}{-4pt}
+%   \caption{Smart desk example detecting user and object's presence and status}
+%   \label{fig:smartdesk}
+% \end{figure}
 
 \subsection{User Study}
 To evaluate the sensing performance on the presence and status of the user and the water cup, we conducted a user study in which six users (2 females, 4 males, average age of 25.0 (SD = 0.9)) participated. For each round, users read a book with his or her arms laying on the table for 20 seconds and then replaced the thin plastic water cup filled with $250 ml$ water with another water cup filled with $50 ml$ water. Finally, the user left the desk for 10 seconds and came back to repeat the session five times in total.

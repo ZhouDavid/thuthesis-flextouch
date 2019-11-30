@@ -5,13 +5,13 @@ In this section, we evaluate the sensing range of \textit{FlexTouch} considering
 
 Fig ~\ref{fig:experiment} illustrates our hardware setup for this study. Two strips are coming out from the phone. The signal strip is directly attached to the phone touch surface by a plastic clamp, while the grounding strip is connected to the back plate of the phone. In this study, we only look at the difference between using and not using the grounding strip. We discuss other variables pertaining to the  grounding strip in a more thorough study in later parts of this section. 
 
-\begin{figure}[ht]
-	\centering
-	\includegraphics[width=0.70\columnwidth]{figures/evaluation_env.png}
-	\setlength{\belowcaptionskip}{-6pt}
-    \caption{Experiment setup to evaluate the touch sensing coverage range.}
-    \label{fig:experiment}
-\end{figure}
+% \begin{figure}[ht]
+% 	\centering
+% 	\includegraphics[width=0.70\columnwidth]{figures/evaluation_env.png}
+% 	\setlength{\belowcaptionskip}{-6pt}
+%     \caption{Experiment setup to evaluate the touch sensing coverage range.}
+%     \label{fig:experiment}
+% \end{figure}
 	
 To evaluate the effect of different materials, We fabricated four different 5-meter long signal strips using materials including copper foil tape (CFT), ITO PET film (IPF), carbon paint (CP), and silver nanoparticle ink (SNI) with a fixed width of $1.5mm$. We set the grounding strip (5-meter long, $6mm$-wide copper foil tape) $2 cm$ away from the signal strip in this study. We recruited four participants for this experiment with an average age of 26.5 ($SD = 2.5$). The study lasted for 2 hours in total and we compensated each participant with a \$50 dollar gift card.
 
@@ -64,14 +64,14 @@ We summarize our results in Table ~\ref{tab:snrtable}, which outlines the signal
 
 \textbf{2. \textit{FlexTouch}'s sensing range is positively correlated with material conductivity.} Among the four materials, CFT achieved the longest sensing range, following by SNI and IPF, finally by CP. This ordering is consistent with the conductivity ordering of the 4 materials presented in Figure ~\ref{fig:material-width} B. We believe that materials with even better conductivity may be able to exceed the sensing range we observed in this study. 
 
-\begin{figure}[ht]  
-\centering
-  \includegraphics[width=0.75\columnwidth]{figures/material-width-and-table.png}
+% \begin{figure}[ht]  
+% \centering
+%   \includegraphics[width=0.75\columnwidth]{figures/material-width-and-table.png}
 
-  \setlength{\belowcaptionskip}{-8pt}
-  \caption{The SNR versus the signal strip width using four different materials (A). The table of material's resistance values ($\Omega$) under different extension lengths (B).}
-  \label{fig:material-width}
-\end{figure}
+%   \setlength{\belowcaptionskip}{-8pt}
+%   \caption{The SNR versus the signal strip width using four different materials (A). The table of material's resistance values ($\Omega$) under different extension lengths (B).}
+%   \label{fig:material-width}
+% \end{figure}
 
 \textbf{3. The extension distance increases as the width of the signal strip decreases.} To better understand the effect of the width of the signal strip, we conducted a follow-up study changing the width of the signal strip made with 4 different materials with a fixed length of 3 meters. We recorded the SNR in Figure ~\ref{fig:material-width} A, which demonstrates that \textit{FlexTouch} has the best performance with a $1.5mm$-wide signal strip regardless of the fabrication material. We believe that even thinner strip will be able to support longer sensing ranges. However, since a thinner strip is less conductive, we believe that there's a lower limit on the strip's width.
 

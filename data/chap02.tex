@@ -2,9 +2,25 @@
 In this section, we first review a set of work that aims to enable touch interaction on everyday surfaces and objects. Then we dive deeper into prior work in the field of capacitive sensing closely related to \textit{FlexTouch} to better position our work in the related literature.
 
 \section{Touch Interaction on Everyday Surfaces and Objects}
-Researchers have explored various methods and techniques to enable interactive interfaces on everyday surfaces and objects. One popular method to enable touch interactions is by projecting 2D user interfaces onto a surface and then recognize user interaction via computer vision ~\cite{pinhanez2001everywhere, Fails-2002-Light-Widgets, Wilson-2010-Light-Space, Xiao-WorldKit}. These solutions can support large-scale interactions which are suitable for fixed infrastructure. However, its power consumption and form factor are still challenging for everyday mobile scenarios. 
+Researchers have explored various methods and techniques to enable interactive interfaces on everyday surfaces and objects. One popular method to enable touch interactions, as shown in Fig ~\ref{fig:cv-large-scale-interaction} is by projecting 2D user interfaces onto a surface and then recognize user interaction via computer vision technique ~\cite{pinhanez2001everywhere, Fails-2002-Light-Widgets, Wilson-2010-Light-Space, Xiao-WorldKit}. These solutions can support large-scale interactions which are suitable for fixed infrastructure. However, its power consumption and form factor are still challenging for everyday mobile scenarios.  Furthermore, the cost of the toolkit as well as the difficulty of setup also makes it far way from being popularized to ordinary people. 
 
-Touch interaction can also be supported by acoustic sensing. Researchers have explored recognizing a discrete set of touch events on everyday objects such as windows ~\cite{Paradiso-2002-Window}, desktops, and other surfaces ~\cite{Harrison-2008-Scratch-iput}. However, these approaches only apply towards a small set of touch inputs like tapping or scratching on various materials.
+% \begin{figure}[ht]
+%     \centering
+% 	\includegraphics[width=0.70\columnwidth]{figures/cv-large-scale-sensing.png}
+% 	\setlength{\belowcaptionskip}{-6pt}
+%     \caption{Example applications of vision-based large-scale interaction: a) notification message application. b) Kitchen application.}
+%     \label{fig:cv-large-scale-interaction}
+% \end{figure}
+
+Touch interaction can also be supported by acoustic sensing Ono's work is based on the difference of resonate properties of different objects ~\cite{Ono-Touch-and-Activate}. By training a model for recognizing different acoustic wave patterns, it is able to distinguish various touch events. Researchers have explored recognizing a discrete set of touch events on everyday objects such as windows ~\cite{Paradiso-2002-Window}, desktops, and other surfaces ~\cite{Harrison-2008-Scratch-iput}. However, these approaches only apply towards a small set of touch inputs like tapping or scratching on various materials. However, these approaches cannot live without dedicated sensing platforms to collect and transmiting acoustic data from objects. 
+
+% \begin{figure}[ht]
+%     \centering
+% 	\includegraphics[width=0.70\columnwidth]{figures/acoustic-sensing.png}
+% 	\setlength{\belowcaptionskip}{-6pt}
+%     \caption{Touch & Activate: Adding interactivity of existing objects using active acoustic sensing}
+%     \label{fig:acoustic-sensing}
+% \end{figure}
 
 Another popular method is electromagnetic sensing. \textit{SmartSkin} enabled multi-touch interaction on surfaces using a mesh-shaped capacitive sensor grid ~\cite{Rekimoto-SmartSkin}. \textit{Electrick} ~\cite{Zhang-Electrick} and \textit{Pulp Nonfiction} ~\cite{Zhang-pulp} enabled touch input on everyday surfaces and objects using Electric Field Tomography (EIT) with coated conductive materials on everyday surfaces and objects. \textit{Touche} ~\cite{Sato-Touche} enhances touch interface on the human body or everyday objects by measuring the electrical profiles with a frequency-sweep signal. \textit{Midas} ~\cite{Savage-2012-Midas} fabricated customized capacitive touch sensors to prototyping interactive object with a circuit board milling machine. \textit{Wall++} ~\cite{Zhang-wall} enabled large-scale touch interaction on the wall for activity recognition. Other prior work also explored printing custom-shaped capacitive sensors ~\cite{gong2014printsense,olberding2015foldio,olberding2014printscreen,vadgama2017flexy}. These prior works demonstrated very promising results, however, they rely heavily on dedicated sensing platforms and customized embedded systems to provide power supply, external sensors, signal processing, and communication modules. These requirements create barriers for end-users to easily fabricate customized touch interfaces.
 
