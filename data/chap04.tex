@@ -1,6 +1,6 @@
 \chapter{FlexTouch Implementation}
 
-To validate the feasibility of our approach across different Android devices, We implemented \textit{FlexTouch} on a Huawei P20 and a Huawei P10 phone. By rooting the Android operating system and modifying the driver of the touch screen controller IC in the kernel's source code, we extracted the raw capacitive sensing data: $32 \times 16 = 512 px$ 16-bit diff value image across a 5.8-inch surface at 100 fps for Huawei P20 phone, $28 \times 16 = 448 px$, 16-bit diff value image across 5.1-inch surface area at 20 fps for Huawei P10 phone. We built an Android application that shows positions and raw capacitive values with corresponding update rates of chosen sensing nodes. The app also logs the raw capacitive image to a local server for later analysis.
+In this chapter, to validate the feasibility of our approach across different Android devices, We implemented \textit{FlexTouch} on a Huawei P20 and a Huawei P10 phone. By rooting the Android operating system and modifying the driver of the touch screen controller IC in the kernel's source code, we extracted the raw capacitive sensing data: $32 \times 16 = 512 px$ 16-bit diff value image across a 5.8-inch surface at 100 fps for Huawei P20 phone, $28 \times 16 = 448 px$, 16-bit diff value image across 5.1-inch surface area at 20 fps for Huawei P10 phone. We built an Android application that shows positions and raw capacitive values with corresponding update rates of chosen sensing nodes. The app also logs the raw capacitive image to a local server for later analysis.
 
 \begin{figure}[ht]
     \centering
@@ -23,7 +23,7 @@ d) Everyday object state sensing includes object presence detection and object s
 
 Note that sensing capability a) has been discussed in prior work ~\cite{Kato2015}. But the other modalities are unique to \textit{FlexTouch}.
 
-\begin{figure}[h]
+\begin{figure}[ht]
 \centering
   \includegraphics[width=0.95\columnwidth]{figures/1d2d-principle.png}
   \caption{\textit{FlexTouch} supports various applications with different sensing capabilities including A: 1D touch sensing, B:2D continuous multi-touch tracking, C: 2D High resolution single touch tracking and D: Object presence and state sensing}
@@ -44,14 +44,23 @@ Here we define the \textbf{\textit{signal-to-noise ratio (SNR)}} representing th
 \begin{figure}[ht]
     \centering
       \includegraphics[width=0.95\columnwidth]{figures/processing.png}
-      \setlength{\belowcaptionskip}{-8pt}
+      \setlength{\belowcaptionskip}{-6pt}
       \caption{Signal processing demo  detecting the touch event.}
       \label{fig:processing}
 \end{figure}
 
 \section{Differentiation Between On-screen and Off-screen Event}
-% to be added tomorrow
-% one figure 
+We collected raw capacitance data from P20 phone from both on-screen touch and off-screen touch event. Then we applied the moving-average based signal processing method to visualize and analyze our result. In our experiment, we use the copper strip with 5cm length attache to \#16 joint point on the touchscreen and perform both on-screen touch and off-screen touch 5 times simultanously.
+
+Fig ~\ref{fig:diff-visual} shows that there is a visual difference between on-screen and off-screen touch, with the signal of on-screen touch approximately 500 higher than off-screen touch, which means that even simply choose a appropriate threshold can separate the two types of touch event fairly well.
+
+\begin{figure}[ht]
+  \centering
+    \includegraphics[width=0.95\columnwidth]{figures/diff-visual.png}
+    \setlength{\belowcaptionskip}{-6pt}
+    \caption{Signal processing demo  detecting the touch event.}
+    \label{fig:diff-visual}
+\end{figure}
 
 \section{Fabrication}
 We identified materials that can be easily customized into everyday surfaces with properties including flexibility, conductivity, and commercial availability. We fabricated interfaces using these materials through various processes, including adhering, cutting (e.g., manual cutting, laser cutting) and coating methods (e.g., ink-jet printing, brush painting). We leveraged the following materials to fabricate \textit{FlexTouch} interfaces.
@@ -79,21 +88,25 @@ Liquid paint coating and ink printing are more versatile, as they can be added o
 
 The conductive coating method is compatible with mass production due to its reproducibility. However, because of the limited size of each template or substrate, we need to further assemble the fabricated elements for large-scale application.
 
+\begin{figure}[ht]
+  \centering
+    \includegraphics[width=0.75\columnwidth]{figures/plugandplay.png}
+    \setlength{\belowcaptionskip}{-6pt}
+    \caption{Demonstration of two assembly methods. The ITO strip array interface (A) can be stuck to a 2D-patterned application (B). The external application can be clipped onto the edge of the touchscreen (C and D).}
+    \label{fig:plugandplay}
+\end{figure}
+
 \section{Plug and Play}
 In this section, we present \textit{FlexTouch}'s plug and play interface for daily use by proposing two assembly approaches as demonstrated in Fig ~\ref{fig:plugandplay}. 
 
-\begin{figure}[ht]
-    \centering
-      \includegraphics[width=0.75\columnwidth]{figures/plugandplay.png}
-      \setlength{\belowcaptionskip}{-6pt}
-      \caption{Demonstration of two assembly methods. The ITO strip array interface (A) can be stuck to a 2D-patterned application (B). The external application can be clipped onto the edge of the touchscreen (C and D).}
-      \label{fig:plugandplay}
-\end{figure}
+
 
 \begin{itemize}
     \item \textbf{Adhere the external application with an ITO array film.} The ITO film is suitable for being integrated into a screen protector with an ITO conductive array connected to the edge of the touchscreen. The adhesive ITO film can easily be attached or detached to the external 2D patterned application. 
     \item \textbf{Fix the external application on the phone's edge with a clip.} The external application is connected with an array of conductive threads on one side of the clip while the electrodes on the 2D pattern representing the local ground are connected on the other side of the clip as shown in Fig ~\ref{fig:plugandplay} C. The customized part can be clipped onto the edge of the touchscreen as shown in Fig ~\ref{fig:plugandplay} D. 
 \end{itemize}
 
+\section{Summary}
+In this chapter, we implemented \textit{FlexTouch} on two Android devices: Huawei P10 and Huawei P20. We first summarized the sensing capabilities of \textit{FlexTouch} that supports both 1D and 2D interaction patterns. After that, we introduced the signal processing algorithm we used for touch event detection, and how to differentiate the off-screen touch from on-screen touch. Then we elaborated our the materials we used along with corresponding fabrication approaches. 
 
 
