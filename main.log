@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  4 DEC 2019 01:18
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  4 DEC 2019 01:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1148,10 +1148,9 @@ File: figures/touchproducts.png Graphic file (type bmp)
 [1
 
 
-]
+] [2]
 File: figures/small-scale-scenarios.png Graphic file (type bmp)
 <figures/small-scale-scenarios.png>
- [2]
 File: figures/scenarios-ubicomp.png Graphic file (type bmp)
 <figures/scenarios-ubicomp.png>
  [3] [4] [5]) (./data/chap02.tex [6]
@@ -1237,9 +1236,10 @@ File: figures/material-width-and-table.png Graphic file (type bmp)
  [29]
 File: figures/estimate.png Graphic file (type bmp)
 <figures/estimate.png>
+ [30]
 File: figures/SNR-definition.png Graphic file (type bmp)
 <figures/SNR-definition.png>
- [30] [31]
+ [31]
 File: figures/grouding-gap-and-width.png Graphic file (type bmp)
 <figures/grouding-gap-and-width.png>
  [32] [33] [34]
@@ -1318,7 +1318,7 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  35333 strings out of 492916
  677697 string characters out of 6133346
- 892376 words of memory out of 5000000
+ 893376 words of memory out of 5000000
  38775 multiletter control sequences out of 15000+600000
  541118 words of font info for 185 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
